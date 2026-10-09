@@ -1,0 +1,51 @@
+#!/bin/sh
+#cd ${0%/*} || exit 1    # Run from this directory
+
+# Source tutorial run functions
+. $WM_PROJECT_DIR/bin/tools/RunFunctions
+
+# Get application directory
+#application=$(getApplication)
+
+logdir=logs
+rm -rf ${logdir}
+mkdir ${logdir}
+
+makeMesh="true"
+
+if $makeMesh
+then
+    blockMesh >> ${logdir}/log.blockMesh 2>&1
+    snappyHexMesh -overwrite >> ${logdir}/log.snappyHexMesh 2>&1
+    extrudeMesh >> ${logdir}/log.extrudeMesh 2>&1
+    changeDictionary >> ${logdir}/log.changeDictionary 2>&1
+else
+    echo "Not making a new mesh"
+fi
+
+# Pressure list
+p_=(0.0001 0.00025 0.0005 0.001 0.002 0.003 0.004 0.005 0.006 0.008)
+
+# Preprocessing
+topoSet >> ${logdir}/log.topoSet
+
+for i in $(seq 0 9)
+do
+    # Update the pressure
+    sed -i "27s/.*/        value           uniform ${p_[$i]};/" ./0/p
+    decomposePar >> ${logdir}/log.decomposePar
+
+    # Run the application
+    # mpirun -np 4 simpleFoamMod -parallel >> ${logdir}/log.simpleFoamMod${i} # Local testing
+    srun simpleFoamMod -parallel >> ${logdir}/log.simpleFoamMod${i}
+
+    # Save the results
+    mv postProcessing post${i}
+
+    # Clean up
+    rm -rf processor*
+done
+
+#rm -r processor*
+
+#------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  10
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      decomposeParDict;
+}
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+numberOfSubdomains  48;
+
+method          simple;
+
+simpleCoeffs
+{
+    // n           (11 8 1); // Dogwood
+    // n (2 2 1);            // Testing
+    n (12 4 1);             // Sycamore
+    delta       .001; 
+}
+
+
+// ************************************************************************* //

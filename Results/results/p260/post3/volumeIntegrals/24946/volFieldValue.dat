@@ -1,0 +1,5 @@
+# Region            : cellZone water
+# Cells             : 337311569
+# Volume            : 1.746003906328e+04
+# Time              	volIntegrate(U)	volIntegrate(p)	volIntegrate(gp)
+24946               	(-8.206910582209e+07 1.277609906727e+05 -2.116900483484e+04)	-2.372616188298e+11	-1.539009388506e+13

@@ -2,10 +2,10 @@
 
 echo "Copying IBAMR initial cases"
 
-for i in $(seq 1 3)
+for pi in $(seq 1 3)
 do
-    cp -r BaseCase ib-${i}0
-    cp input/input2d-${i}0
+    cp -r BaseCase ib-${pi}0
+    cp input/input2d-${pi}0 ib-${pi}0
 done
 
 echo "Done"

@@ -1,6 +1,6 @@
 # Introduction
 
-The following repository contains all of the data for the sediment transport momentum closure work published in Shepherd, Bowers et al. 202?, found here (to be added). 
+The following repository contains all of the data for the sediment transport momentum closure work published in Shepherd, Bowers et al. 2026, found [here](https://janeway.uncpress.org/ARC-GR/article/id/4973/). 
 
 ## Software
 
@@ -12,7 +12,7 @@ Required CFD software includes:
 
 Optional software includes:
 * SALOME 
-* MATLAB
+* MATLAB 2020a or Octave
 
 The SALOME meshes are relatively small and are included in this repository. The MATLAB scripts used are also included, but have been rewritten in Python 3 in case of license issues. 
 
@@ -22,7 +22,7 @@ The pimpleFoam and simpleFoam solvers have been lightly modified for post proces
 
 # Methods Validation
 
-The methods validation simulates single cylinder cases using a moving particle solver, IBAMR, and a static solver, OpenFOAM. The fits, errors and plots may be reproduced with the MATLAB script `ViewResults.m` or the python script `ViewResults.py` found in the `MethodsValidation/Analysis` directory.
+The methods validation simulates single cylinder cases using a moving particle solver, IBAMR, and a static solver, OpenFOAM. The fits, errors and plots may be reproduced with the MATLAB script `ViewResults.m` found in the `MethodsValidation/Analysis` directory.
 
 ## OpenFOAM
 
@@ -34,10 +34,32 @@ Data from the runs are found in the directories `MethodsValidation/OpenFOAM/post
 
 ## IBAMR
 
+The script `MethodsValidation/IBAMR/PrepBaseCases.sh` will generate the cases for the stationary cylinder that may be run. After that run, the script `MethodsValidation/IBAMR/CopyRestarts.sh` will copy everything with the new input files that will move the sphere at some non-zero velocity.
+
 # Static sphere simulations
+
+## Meshes
 
 ## Dilute Cases
 
 ## Dense cases
 
 ## Midrange cases
+
+# To Do list
+- [x] Methods validation: openfoam cases
+- [x] Methods validation: ibamr cases
+- [ ] Methods validation: ibamr post processing
+- [x] Methods validation: analysis matlab
+- [ ] Methods validation: analysis octave
+- [ ] Preprocess: Two sphere meshes
+- [ ] Preprocess: Mid/dense meshes
+- [ ] Preprocess: Cross validation walk
+- [ ] Preprocess: Cross validation meshes
+- [ ] Two sphere: Base case
+- [ ] Two sphere: Scripts
+- [ ] Mid/Dense: Base case
+- [ ] Mid/Dense: scripts
+- [x] Analysis: Get data
+- [ ] Analysis: PySR run script
+- [ ] Analysis: PySR eval script

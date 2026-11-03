@@ -40,6 +40,8 @@ The script `MethodsValidation/IBAMR/PrepBaseCases.sh` will generate the cases fo
 
 ## Meshes
 
+The generation of the two sphere meshes may be performed by running the python script `Preprocessing/genDilute.py`. The monodisperse meshes were originally generated with SALOME, which is reflected in `Preprocessing/DiluteMeshing/MeshingFunctions.py`, however they are all set up to be generated with `pygmsh`.
+
 ## Dilute Cases
 
 ## Dense cases
@@ -52,7 +54,7 @@ The script `MethodsValidation/IBAMR/PrepBaseCases.sh` will generate the cases fo
 - [ ] Methods validation: ibamr post processing
 - [x] Methods validation: analysis matlab
 - [ ] Methods validation: analysis octave
-- [ ] Preprocess: Two sphere meshes
+- [x] Preprocess: Two sphere meshes
 - [ ] Preprocess: Mid/dense meshes
 - [ ] Preprocess: Cross validation walk
 - [ ] Preprocess: Cross validation meshes

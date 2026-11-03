@@ -135,8 +135,8 @@ hold on
 plot(re(:,1),ibp,'b-','LineWidth',lw)
 plot(re(:,1),sfp,'r-','LineWidth',lw)
 legend('IBAMR data point','OpenFOAM data points','IBAMR fit','OpenFOAM fit')
-xlabel('$|\vec{Re}|$',Interpreter='latex',FontSize=labelsz-5)
-ylabel('$\acute{{{w \rightarrow s} \atop \vec{T}}}_x$',Interpreter='latex',FontSize=labelsz)
+xlabel('$|\vec{Re}|$','Interpreter','latex','FontSize',labelsz-5)
+ylabel('$\acute{{{w \rightarrow s} \atop \vec{T}}}_x$','Interpreter','latex','FontSize',labelsz)
 
 relErrL1 = sum(abs(sfp-ibp))/length(reGen)*100
 relErrL2 = sqrt(sum((sfp-ibp).^2))/length(reGen)*100
@@ -257,24 +257,3 @@ function [ieT,vr,t] = getIBg_(Vbox,i)
 
 end
 
-function testDeriv_
-dt = 0.005;
-t = 303.95:dt:304.035;
-ux = [1.09208795e-01 1.09208791e-01 1.09208787e-01 1.09208783e-01...
-      1.09208780e-01 1.09208776e-01 1.09208772e-01 1.09208768e-01...
-      1.09208764e-01 1.09208761e-01 1.09208757e-01 1.09208753e-01...
-      1.09208749e-01 1.09208745e-01 1.09208742e-01 1.09208738e-01...
-      1.09208734e-01 1.09208730e-01];
-
-diff1O2 = (ux(1:end-1) - ux(2:end))/(2*dt);
-C1 = -1/12; C2 = 2/3; C3 = -2/3; C4 = 1/12;
-diff1O4 = (C1*ux(1:end-4) + C2*ux(2:end-3) + C3*ux(4:end-1) + C4*ux(5:end))/dt;
-C1 = 1/60; C2 = -3/20; C3 = 3/4; C4 = -3/4; C5 = 3/20; C6 = -1/60;
-diff1O6 = (C1*ux(1:end-6) + C2*ux(2:end-5) + C3*ux(3:end-4) + C4*ux(5:end-2) + C5*ux(6:end-1) + C6*ux(7:end))/dt;
-
-% plot(-diff1O2)
-% hold on
-% plot(-diff1O4)
-% plot(-diff1O6)
-
-end

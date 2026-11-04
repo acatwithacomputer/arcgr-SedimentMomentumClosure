@@ -1,0 +1,1492 @@
+create_atoms 1 single 21.782168 6.324891 31.710134 units box 
+create_atoms 1 single 15.035106 14.729446 10.396145 units box 
+create_atoms 1 single 16.330697 30.665199 1.313627 units box 
+create_atoms 1 single 28.114379 25.389807 15.248831 units box 
+create_atoms 1 single 11.527872 4.726403 20.118696 units box 
+create_atoms 1 single 12.965351 21.870888 30.453526 units box 
+create_atoms 1 single 5.069890 31.333480 29.693603 units box 
+create_atoms 1 single 23.731785 14.945461 6.160317 units box 
+create_atoms 1 single 1.693551 8.384988 13.268336 units box 
+create_atoms 1 single 31.164924 3.989713 10.742531 units box 
+create_atoms 1 single 4.134149 14.143897 27.687105 units box 
+create_atoms 1 single 32.159221 5.114052 30.406450 units box 
+create_atoms 1 single 19.610012 32.106695 3.470902 units box 
+create_atoms 1 single 11.849457 29.747202 9.720153 units box 
+create_atoms 1 single 19.339860 29.314249 2.429410 units box 
+create_atoms 1 single 26.430851 31.699530 3.912389 units box 
+create_atoms 1 single 10.126314 9.649579 12.454029 units box 
+create_atoms 1 single 21.821197 9.370328 31.849168 units box 
+create_atoms 1 single 32.638631 14.347934 0.214086 units box 
+create_atoms 1 single 31.172085 25.599314 9.806327 units box 
+create_atoms 1 single 21.943915 16.134309 0.558820 units box 
+create_atoms 1 single 15.245558 8.341402 24.336439 units box 
+create_atoms 1 single 0.706828 13.714306 9.385254 units box 
+create_atoms 1 single 5.908488 21.567437 8.991333 units box 
+create_atoms 1 single 6.854848 32.547031 5.519983 units box 
+create_atoms 1 single 24.357355 5.892445 28.572531 units box 
+create_atoms 1 single 2.085035 30.586847 23.917320 units box 
+create_atoms 1 single 27.828300 23.121897 23.379184 units box 
+create_atoms 1 single 25.931106 6.201252 24.449703 units box 
+create_atoms 1 single 16.680980 19.515951 7.504042 units box 
+create_atoms 1 single 16.510741 27.915766 29.436985 units box 
+create_atoms 1 single 27.584670 8.027496 26.621451 units box 
+create_atoms 1 single 24.209042 15.729684 14.612704 units box 
+create_atoms 1 single 24.699722 24.488901 5.663100 units box 
+create_atoms 1 single 2.722607 12.477460 0.054971 units box 
+create_atoms 1 single 12.828029 12.295969 30.884755 units box 
+create_atoms 1 single 11.670036 21.518354 26.539797 units box 
+create_atoms 1 single 33.440493 4.915777 9.468802 units box 
+create_atoms 1 single 27.679197 14.709168 27.670516 units box 
+create_atoms 1 single 29.113123 29.761529 32.954653 units box 
+create_atoms 1 single 28.875826 30.953698 23.702610 units box 
+create_atoms 1 single 5.276268 11.076493 22.157071 units box 
+create_atoms 1 single 18.745425 12.258194 23.694053 units box 
+create_atoms 1 single 18.568362 8.355590 19.187035 units box 
+create_atoms 1 single 20.920973 12.535409 14.997219 units box 
+create_atoms 1 single 31.250999 7.160733 4.186870 units box 
+create_atoms 1 single 18.681683 22.113461 13.708437 units box 
+create_atoms 1 single 12.537412 23.304023 21.475867 units box 
+create_atoms 1 single 30.244473 20.989459 0.815940 units box 
+create_atoms 1 single 15.730278 1.109443 5.407612 units box 
+create_atoms 1 single 20.398682 19.472854 14.819489 units box 
+create_atoms 1 single 12.486640 31.770173 29.120323 units box 
+create_atoms 1 single 5.768590 16.726580 15.847568 units box 
+create_atoms 1 single 14.952168 33.417740 12.647970 units box 
+create_atoms 1 single 14.534948 30.582389 20.549061 units box 
+create_atoms 1 single 33.313917 28.077684 11.471341 units box 
+create_atoms 1 single 3.303844 0.385193 8.030087 units box 
+create_atoms 1 single 10.262311 22.693371 13.857326 units box 
+create_atoms 1 single 5.814231 13.830238 24.050965 units box 
+create_atoms 1 single 5.300194 27.666698 29.931246 units box 
+create_atoms 1 single 0.797346 7.882708 4.153315 units box 
+create_atoms 1 single 10.286321 5.622603 26.119386 units box 
+create_atoms 1 single 9.518367 29.573706 15.824287 units box 
+create_atoms 1 single 32.343537 11.758525 24.482999 units box 
+create_atoms 1 single 3.424603 5.473118 3.301463 units box 
+create_atoms 1 single 28.729096 16.135148 5.959711 units box 
+create_atoms 1 single 9.430504 20.603258 10.464090 units box 
+create_atoms 1 single 31.405550 29.163395 5.249355 units box 
+create_atoms 1 single 16.059282 2.357048 9.486096 units box 
+create_atoms 1 single 3.205941 31.177934 26.208409 units box 
+create_atoms 1 single 6.667273 5.510409 14.618331 units box 
+create_atoms 1 single 3.058976 19.342670 11.601150 units box 
+create_atoms 1 single 1.995953 9.693518 20.819802 units box 
+create_atoms 1 single 15.066529 25.759128 1.518548 units box 
+create_atoms 1 single 13.571562 0.734950 21.380419 units box 
+create_atoms 1 single 27.925760 30.610177 30.562249 units box 
+create_atoms 1 single 23.222732 29.550778 32.165230 units box 
+create_atoms 1 single 19.042033 12.893976 26.916622 units box 
+create_atoms 1 single 9.956065 25.521585 15.622369 units box 
+create_atoms 1 single 2.177419 23.453930 33.323827 units box 
+create_atoms 1 single 28.990803 2.477794 29.491776 units box 
+create_atoms 1 single 18.504481 5.909076 14.701991 units box 
+create_atoms 1 single 30.396517 29.376242 21.243936 units box 
+create_atoms 1 single 24.171194 8.404339 30.480294 units box 
+create_atoms 1 single 25.373868 21.271195 13.476464 units box 
+create_atoms 1 single 1.528891 30.434683 5.721681 units box 
+create_atoms 1 single 6.284726 1.102910 14.845346 units box 
+create_atoms 1 single 0.456057 12.988414 30.849851 units box 
+create_atoms 1 single 5.929409 22.371196 11.985345 units box 
+create_atoms 1 single 28.428336 19.816532 10.200525 units box 
+create_atoms 1 single 27.735117 26.947704 19.066783 units box 
+create_atoms 1 single 28.225777 26.882603 23.816274 units box 
+create_atoms 1 single 24.030924 21.118156 6.559410 units box 
+create_atoms 1 single 30.806176 10.385968 16.328117 units box 
+create_atoms 1 single 9.707187 33.426424 28.845537 units box 
+create_atoms 1 single 19.548615 7.093088 16.945390 units box 
+create_atoms 1 single 10.764676 14.348249 15.748061 units box 
+create_atoms 1 single 3.492133 29.182728 3.068325 units box 
+create_atoms 1 single 8.827451 3.370002 10.122563 units box 
+create_atoms 1 single 22.754427 19.279894 12.325054 units box 
+create_atoms 1 single 5.653771 23.250052 31.630663 units box 
+create_atoms 1 single 28.695756 21.242839 20.398234 units box 
+create_atoms 1 single 32.421451 14.480159 25.480911 units box 
+create_atoms 1 single 17.220140 14.853608 3.405118 units box 
+create_atoms 1 single 5.141090 4.424807 17.041299 units box 
+create_atoms 1 single 21.517291 18.644044 8.510927 units box 
+create_atoms 1 single 13.652513 29.931549 26.757188 units box 
+create_atoms 1 single 15.771951 9.226614 13.170192 units box 
+create_atoms 1 single 9.506332 9.610335 29.188082 units box 
+create_atoms 1 single 24.369420 12.300048 8.929423 units box 
+create_atoms 1 single 16.067844 27.864801 7.997635 units box 
+create_atoms 1 single 11.552788 26.826839 12.847009 units box 
+create_atoms 1 single 32.968549 15.159118 3.232560 units box 
+create_atoms 1 single 23.655547 15.665325 10.150719 units box 
+create_atoms 1 single 14.204658 25.564324 19.938886 units box 
+create_atoms 1 single 12.390724 5.161531 13.079226 units box 
+create_atoms 1 single 28.897315 32.666643 27.200627 units box 
+create_atoms 1 single 32.955365 0.441679 15.258996 units box 
+create_atoms 1 single 16.338886 1.267773 17.311721 units box 
+create_atoms 1 single 3.202407 23.832464 23.733671 units box 
+create_atoms 1 single 14.957465 10.409703 8.261455 units box 
+create_atoms 1 single 4.721282 29.569566 14.184192 units box 
+create_atoms 1 single 32.950027 9.495203 22.048245 units box 
+create_atoms 1 single 11.875430 26.054550 33.384275 units box 
+create_atoms 1 single 27.786404 15.456400 20.021790 units box 
+create_atoms 1 single 12.135207 14.988981 4.763196 units box 
+create_atoms 1 single 2.386005 27.240741 6.994747 units box 
+create_atoms 1 single 6.374503 24.282982 20.870529 units box 
+create_atoms 1 single 28.792426 19.611967 6.453781 units box 
+create_atoms 1 single 29.891508 23.147294 9.454490 units box 
+create_atoms 1 single 13.794333 18.947813 31.682545 units box 
+create_atoms 1 single 1.169049 16.820382 14.845689 units box 
+create_atoms 1 single 5.721775 33.324648 0.257031 units box 
+create_atoms 1 single 21.173776 16.013470 17.177674 units box 
+create_atoms 1 single 17.173511 5.145376 32.834229 units box 
+create_atoms 1 single 12.398247 4.264249 9.013112 units box 
+create_atoms 1 single 7.604445 15.732204 18.332371 units box 
+create_atoms 1 single 2.428548 30.455606 9.171330 units box 
+create_atoms 1 single 5.099489 14.521483 2.649586 units box 
+create_atoms 1 single 23.089058 1.804801 7.032827 units box 
+create_atoms 1 single 29.184373 0.363586 21.470115 units box 
+create_atoms 1 single 18.646516 20.454243 9.019073 units box 
+create_atoms 1 single 12.089160 22.932283 8.436538 units box 
+create_atoms 1 single 30.965407 29.922292 26.109415 units box 
+create_atoms 1 single 28.577665 27.873648 3.125924 units box 
+create_atoms 1 single 4.231944 5.212809 10.244877 units box 
+create_atoms 1 single 15.939741 22.687961 14.497146 units box 
+create_atoms 1 single 17.260605 29.873800 13.925783 units box 
+create_atoms 1 single 4.957972 32.572420 17.040143 units box 
+create_atoms 1 single 9.405647 20.592223 16.839754 units box 
+create_atoms 1 single 5.500578 24.840220 9.237473 units box 
+create_atoms 1 single 18.724796 29.309230 29.536568 units box 
+create_atoms 1 single 13.182472 31.240760 4.342909 units box 
+create_atoms 1 single 12.205105 33.297794 1.728764 units box 
+create_atoms 1 single 32.776689 22.011069 31.912544 units box 
+create_atoms 1 single 24.272683 17.486065 29.588706 units box 
+create_atoms 1 single 29.634008 13.995300 24.167408 units box 
+create_atoms 1 single 17.939950 9.988723 16.133797 units box 
+create_atoms 1 single 16.178199 28.412146 4.339951 units box 
+create_atoms 1 single 20.362495 31.313650 32.660386 units box 
+create_atoms 1 single 6.509814 30.720500 22.242095 units box 
+create_atoms 1 single 25.815954 23.430497 16.545465 units box 
+create_atoms 1 single 21.653724 3.771241 13.454546 units box 
+create_atoms 1 single 5.415365 17.543110 28.596708 units box 
+create_atoms 1 single 33.042955 30.676630 24.371096 units box 
+create_atoms 1 single 8.001534 11.151132 14.928957 units box 
+create_atoms 1 single 14.718407 3.741698 19.435867 units box 
+create_atoms 1 single 22.017836 22.827308 12.689494 units box 
+create_atoms 1 single 26.435316 31.336043 16.182428 units box 
+create_atoms 1 single 3.841587 27.258042 27.001557 units box 
+create_atoms 1 single 21.558929 9.723715 16.811704 units box 
+create_atoms 1 single 2.046486 23.867061 6.080211 units box 
+create_atoms 1 single 23.655681 26.500115 16.618414 units box 
+create_atoms 1 single 8.244388 28.631138 11.765504 units box 
+create_atoms 1 single 8.228227 29.748803 7.936626 units box 
+create_atoms 1 single 1.496081 4.240942 28.643803 units box 
+create_atoms 1 single 22.691960 19.531596 19.592686 units box 
+create_atoms 1 single 26.332934 11.176045 1.573950 units box 
+create_atoms 1 single 15.751944 13.905002 31.165117 units box 
+create_atoms 1 single 0.464956 22.744890 17.944469 units box 
+create_atoms 1 single 19.287812 29.778088 6.216568 units box 
+create_atoms 1 single 21.212675 26.885323 1.801755 units box 
+create_atoms 1 single 6.743130 3.383813 28.259187 units box 
+create_atoms 1 single 13.383706 16.739694 0.002803 units box 
+create_atoms 1 single 3.048613 1.981789 15.173811 units box 
+create_atoms 1 single 31.312339 29.027391 23.643779 units box 
+create_atoms 1 single 12.762919 16.956769 9.985435 units box 
+create_atoms 1 single 21.145721 14.456488 3.726886 units box 
+create_atoms 1 single 16.398837 5.658078 12.009233 units box 
+create_atoms 1 single 22.175880 10.661647 22.407987 units box 
+create_atoms 1 single 25.597268 10.536949 6.838667 units box 
+create_atoms 1 single 5.156851 25.710759 5.424910 units box 
+create_atoms 1 single 0.874242 3.136987 25.918578 units box 
+create_atoms 1 single 32.546556 28.214468 27.757269 units box 
+create_atoms 1 single 28.938623 15.604210 14.974128 units box 
+create_atoms 1 single 25.531343 5.746270 32.384224 units box 
+create_atoms 1 single 8.143597 11.734412 23.397960 units box 
+create_atoms 1 single 28.620969 2.917556 12.386263 units box 
+create_atoms 1 single 20.139722 18.056713 20.492559 units box 
+create_atoms 1 single 17.430871 7.327868 1.842660 units box 
+create_atoms 1 single 17.767070 10.875627 3.087667 units box 
+create_atoms 1 single 24.135844 10.618366 14.632942 units box 
+create_atoms 1 single 10.091426 8.188809 21.579670 units box 
+create_atoms 1 single 0.246110 6.691800 20.507997 units box 
+create_atoms 1 single 31.496336 19.682698 19.028049 units box 
+create_atoms 1 single 20.755185 1.129491 12.521246 units box 
+create_atoms 1 single 0.821735 8.244938 9.174798 units box 
+create_atoms 1 single 32.226987 17.026153 6.655009 units box 
+create_atoms 1 single 17.759747 13.720324 16.146416 units box 
+create_atoms 1 single 10.629086 15.169200 20.318088 units box 
+create_atoms 1 single 26.008167 4.022777 2.214128 units box 
+create_atoms 1 single 12.631769 27.619384 16.081634 units box 
+create_atoms 1 single 5.786092 20.263269 15.233283 units box 
+create_atoms 1 single 18.284066 19.564338 25.445500 units box 
+create_atoms 1 single 7.328451 24.171648 3.213657 units box 
+create_atoms 1 single 5.199866 25.897502 12.953555 units box 
+create_atoms 1 single 32.943160 29.420522 22.287619 units box 
+create_atoms 1 single 0.276895 12.173809 27.502367 units box 
+create_atoms 1 single 0.826289 22.245650 29.541744 units box 
+create_atoms 1 single 24.134344 14.083752 27.731073 units box 
+create_atoms 1 single 8.248912 20.150812 21.105199 units box 
+create_atoms 1 single 7.944647 14.628797 21.763779 units box 
+create_atoms 1 single 29.076103 25.888776 27.263677 units box 
+create_atoms 1 single 23.939018 6.709702 14.197205 units box 
+create_atoms 1 single 18.359013 25.336300 6.141513 units box 
+create_atoms 1 single 3.083875 27.255470 9.972829 units box 
+create_atoms 1 single 15.747157 21.826346 6.672445 units box 
+create_atoms 1 single 20.809145 27.454988 26.152748 units box 
+create_atoms 1 single 16.192838 13.439354 0.965761 units box 
+create_atoms 1 single 13.546792 2.965842 16.355411 units box 
+create_atoms 1 single 17.302243 27.802757 0.318158 units box 
+create_atoms 1 single 30.679792 13.405250 8.529422 units box 
+create_atoms 1 single 32.461500 30.134886 32.850775 units box 
+create_atoms 1 single 13.513961 33.035011 7.912912 units box 
+create_atoms 1 single 13.628706 9.856105 16.424237 units box 
+create_atoms 1 single 12.798752 30.281968 13.596679 units box 
+create_atoms 1 single 9.490804 27.170498 2.264921 units box 
+create_atoms 1 single 26.615114 2.706105 6.938922 units box 
+create_atoms 1 single 28.824427 5.736614 31.026245 units box 
+create_atoms 1 single 10.795615 26.096578 4.787647 units box 
+create_atoms 1 single 32.593547 14.075829 5.946886 units box 
+create_atoms 1 single 26.639982 19.764423 31.232920 units box 
+create_atoms 1 single 13.369684 14.902320 24.354130 units box 
+create_atoms 1 single 3.745193 7.208435 33.090397 units box 
+create_atoms 1 single 15.015540 0.053427 2.891192 units box 
+create_atoms 1 single 17.032413 6.903077 26.498130 units box 
+create_atoms 1 single 4.047073 11.373391 3.418285 units box 
+create_atoms 1 single 5.348907 29.068930 0.280404 units box 
+create_atoms 1 single 2.958755 24.826731 17.513783 units box 
+create_atoms 1 single 4.583401 15.870212 30.876129 units box 
+create_atoms 1 single 29.408639 12.978106 5.906504 units box 
+create_atoms 1 single 16.392519 8.891804 10.372172 units box 
+create_atoms 1 single 21.784621 8.571044 28.898243 units box 
+create_atoms 1 single 19.703173 0.778054 26.927853 units box 
+create_atoms 1 single 23.202864 7.679197 25.385083 units box 
+create_atoms 1 single 26.240478 0.797051 27.978159 units box 
+create_atoms 1 single 25.681195 3.648475 18.595293 units box 
+create_atoms 1 single 33.189589 6.238122 6.751769 units box 
+create_atoms 1 single 9.420751 12.603156 12.853628 units box 
+create_atoms 1 single 24.111725 22.276541 3.574026 units box 
+create_atoms 1 single 21.845438 20.200639 24.192128 units box 
+create_atoms 1 single 25.414997 25.566108 13.061446 units box 
+create_atoms 1 single 0.783633 27.582990 4.397562 units box 
+create_atoms 1 single 11.621965 19.759338 22.248019 units box 
+create_atoms 1 single 18.818585 14.587344 0.199294 units box 
+create_atoms 1 single 17.719256 0.319402 2.554335 units box 
+create_atoms 1 single 19.479844 12.287199 18.341390 units box 
+create_atoms 1 single 19.019479 7.749350 22.959459 units box 
+create_atoms 1 single 16.079606 27.859875 18.006434 units box 
+create_atoms 1 single 29.887026 22.900466 17.180090 units box 
+create_atoms 1 single 26.343391 22.291499 8.517742 units box 
+create_atoms 1 single 1.645566 14.810711 25.054210 units box 
+create_atoms 1 single 18.895193 23.567195 22.111030 units box 
+create_atoms 1 single 7.431069 24.533731 6.761456 units box 
+create_atoms 1 single 20.719874 29.786591 22.293864 units box 
+create_atoms 1 single 29.735384 24.080513 30.351058 units box 
+create_atoms 1 single 13.228620 8.795817 1.847953 units box 
+create_atoms 1 single 8.220440 28.045365 23.917792 units box 
+create_atoms 1 single 9.611560 9.633096 32.926290 units box 
+create_atoms 1 single 18.501681 4.663503 19.305081 units box 
+create_atoms 1 single 19.265453 26.882193 10.153137 units box 
+create_atoms 1 single 3.190432 5.359819 18.880238 units box 
+create_atoms 1 single 18.171923 13.268919 12.023542 units box 
+create_atoms 1 single 16.102036 20.370256 16.620446 units box 
+create_atoms 1 single 15.000626 3.871456 6.464188 units box 
+create_atoms 1 single 17.272250 30.852567 22.767475 units box 
+create_atoms 1 single 9.977497 10.397427 2.894674 units box 
+create_atoms 1 single 32.547749 2.348443 5.466260 units box 
+create_atoms 1 single 10.681888 11.172798 15.124442 units box 
+create_atoms 1 single 25.936799 12.318360 18.484018 units box 
+create_atoms 1 single 23.242926 23.839275 31.385845 units box 
+create_atoms 1 single 8.757171 22.420922 29.689948 units box 
+create_atoms 1 single 28.374620 33.070103 32.625486 units box 
+create_atoms 1 single 24.298791 3.552698 9.620040 units box 
+create_atoms 1 single 1.461328 28.311091 1.459088 units box 
+create_atoms 1 single 33.466496 16.261023 28.664898 units box 
+create_atoms 1 single 10.237044 15.714034 8.276661 units box 
+create_atoms 1 single 3.453627 14.456043 12.934042 units box 
+create_atoms 1 single 15.186168 26.176556 14.491197 units box 
+create_atoms 1 single 28.930361 17.904213 18.551392 units box 
+create_atoms 1 single 15.440895 2.381478 0.526379 units box 
+create_atoms 1 single 9.880741 2.629486 27.433851 units box 
+create_atoms 1 single 15.236939 21.550827 23.923365 units box 
+create_atoms 1 single 2.432660 30.153370 33.068032 units box 
+create_atoms 1 single 25.211651 31.471115 27.255505 units box 
+create_atoms 1 single 26.407019 24.315909 2.605264 units box 
+create_atoms 1 single 18.754467 23.242223 26.146067 units box 
+create_atoms 1 single 7.770655 7.781005 26.161556 units box 
+create_atoms 1 single 26.732037 23.333968 20.538833 units box 
+create_atoms 1 single 5.886774 24.812405 28.699583 units box 
+create_atoms 1 single 11.231513 24.929513 30.306145 units box 
+create_atoms 1 single 29.687668 3.513590 3.709887 units box 
+create_atoms 1 single 18.630828 2.955063 33.346761 units box 
+create_atoms 1 single 14.676003 6.985193 14.786165 units box 
+create_atoms 1 single 15.443687 10.604544 32.775855 units box 
+create_atoms 1 single 15.159751 23.715970 27.454022 units box 
+create_atoms 1 single 15.320646 11.421368 11.155686 units box 
+create_atoms 1 single 29.454688 20.383571 23.322405 units box 
+create_atoms 1 single 2.981975 6.168280 5.808916 units box 
+create_atoms 1 single 11.360564 17.485133 2.383379 units box 
+create_atoms 1 single 18.199492 26.294097 2.859473 units box 
+create_atoms 1 single 0.840508 5.942611 33.301067 units box 
+create_atoms 1 single 16.181062 14.157177 24.132682 units box 
+create_atoms 1 single 14.881801 25.535928 31.049123 units box 
+create_atoms 1 single 2.800089 29.463817 18.466615 units box 
+create_atoms 1 single 9.429645 17.325052 5.208970 units box 
+create_atoms 1 single 6.561100 15.920623 4.887227 units box 
+create_atoms 1 single 32.923883 29.284975 19.871453 units box 
+create_atoms 1 single 3.759656 21.229255 1.494531 units box 
+create_atoms 1 single 31.512925 7.082967 10.596386 units box 
+create_atoms 1 single 4.850042 2.014231 19.863019 units box 
+create_atoms 1 single 31.711906 1.433128 18.861092 units box 
+create_atoms 1 single 29.474821 13.150787 18.010392 units box 
+create_atoms 1 single 31.559291 27.356094 2.196376 units box 
+create_atoms 1 single 11.730339 30.090436 1.656638 units box 
+create_atoms 1 single 24.463068 17.908276 32.945635 units box 
+create_atoms 1 single 15.621830 11.198938 20.811522 units box 
+create_atoms 1 single 12.821588 13.919248 18.495544 units box 
+create_atoms 1 single 2.309429 9.418714 2.402537 units box 
+create_atoms 1 single 29.781326 7.269704 14.378486 units box 
+create_atoms 1 single 4.561936 10.282923 18.846404 units box 
+create_atoms 1 single 7.573229 8.917550 23.094209 units box 
+create_atoms 1 single 27.630452 29.394811 8.213213 units box 
+create_atoms 1 single 24.811814 22.736531 23.058776 units box 
+create_atoms 1 single 4.404961 24.532177 26.550825 units box 
+create_atoms 1 single 10.693022 28.622921 4.765076 units box 
+create_atoms 1 single 30.034426 14.031256 2.956623 units box 
+create_atoms 1 single 7.239943 7.651891 0.367233 units box 
+create_atoms 1 single 33.431536 30.583140 2.848428 units box 
+create_atoms 1 single 7.961244 12.706059 27.729886 units box 
+create_atoms 1 single 11.845736 10.030871 22.120498 units box 
+create_atoms 1 single 23.549580 5.166725 6.751711 units box 
+create_atoms 1 single 16.297770 19.985431 13.229884 units box 
+create_atoms 1 single 11.257775 10.218811 7.430394 units box 
+create_atoms 1 single 14.944304 2.977987 13.913964 units box 
+create_atoms 1 single 28.149305 29.357875 5.600495 units box 
+create_atoms 1 single 13.384516 13.159073 28.247939 units box 
+create_atoms 1 single 12.596120 10.878584 28.464510 units box 
+create_atoms 1 single 26.526979 15.292336 22.990587 units box 
+create_atoms 1 single 28.544965 11.279532 26.663926 units box 
+create_atoms 1 single 9.328126 6.505122 31.738395 units box 
+create_atoms 1 single 2.810224 22.211404 27.358061 units box 
+create_atoms 1 single 20.500999 23.036044 2.140180 units box 
+create_atoms 1 single 22.108792 28.939179 8.928453 units box 
+create_atoms 1 single 23.525682 24.871949 3.140495 units box 
+create_atoms 1 single 11.400673 4.841793 16.392981 units box 
+create_atoms 1 single 26.628246 19.759690 24.346898 units box 
+create_atoms 1 single 1.931400 9.592266 24.757973 units box 
+create_atoms 1 single 15.134673 30.552488 6.441796 units box 
+create_atoms 1 single 25.107135 11.625932 25.074417 units box 
+create_atoms 1 single 21.823925 24.966150 24.217889 units box 
+create_atoms 1 single 1.888981 15.551221 32.023884 units box 
+create_atoms 1 single 0.905761 25.275023 26.701004 units box 
+create_atoms 1 single 30.170149 5.427590 27.268263 units box 
+create_atoms 1 single 29.351406 4.453344 18.236200 units box 
+create_atoms 1 single 25.159481 13.309984 12.277041 units box 
+create_atoms 1 single 25.265954 9.716684 11.259395 units box 
+create_atoms 1 single 15.407111 24.957613 22.446777 units box 
+create_atoms 1 single 26.885627 16.038096 17.337865 units box 
+create_atoms 1 single 27.832040 29.275790 26.755649 units box 
+create_atoms 1 single 30.425454 17.641520 25.487968 units box 
+create_atoms 1 single 3.485772 14.082513 6.186308 units box 
+create_atoms 1 single 2.123304 26.123428 20.320580 units box 
+create_atoms 1 single 19.536001 10.957028 9.053386 units box 
+create_atoms 1 single 14.091366 24.747940 5.556651 units box 
+create_atoms 1 single 29.860863 28.636727 15.555932 units box 
+create_atoms 1 single 20.266348 8.474381 1.916790 units box 
+create_atoms 1 single 15.428192 22.162439 2.531626 units box 
+create_atoms 1 single 0.218107 13.663874 23.100981 units box 
+create_atoms 1 single 6.705544 21.603100 0.836508 units box 
+create_atoms 1 single 32.699590 7.646223 1.749177 units box 
+create_atoms 1 single 29.620051 17.989850 29.546989 units box 
+create_atoms 1 single 8.397976 17.958092 32.044477 units box 
+create_atoms 1 single 12.147304 11.818858 0.386158 units box 
+create_atoms 1 single 4.022581 16.898171 19.262779 units box 
+create_atoms 1 single 8.456166 24.626863 11.601441 units box 
+create_atoms 1 single 21.725956 12.014141 0.853709 units box 
+create_atoms 1 single 25.374018 20.368840 21.111994 units box 
+create_atoms 1 single 21.620976 14.924769 30.722736 units box 
+create_atoms 1 single 26.933814 0.287305 13.417556 units box 
+create_atoms 1 single 8.429463 22.728646 26.542293 units box 
+create_atoms 1 single 26.545555 6.956139 17.876592 units box 
+create_atoms 1 single 14.153429 14.471932 15.724954 units box 
+create_atoms 1 single 33.399837 28.699655 7.890870 units box 
+create_atoms 1 single 32.581487 32.237649 21.545160 units box 
+create_atoms 1 single 9.543528 7.053569 18.965111 units box 
+create_atoms 1 single 17.280279 10.472880 25.745851 units box 
+create_atoms 1 single 17.513966 26.882266 21.407908 units box 
+create_atoms 1 single 30.415868 10.361155 19.787526 units box 
+create_atoms 1 single 10.947875 30.821826 6.574102 units box 
+create_atoms 1 single 23.021746 24.107459 20.100593 units box 
+create_atoms 1 single 24.998328 32.861914 21.469086 units box 
+create_atoms 1 single 6.195519 18.897242 18.303562 units box 
+create_atoms 1 single 31.466438 21.699262 11.229503 units box 
+create_atoms 1 single 11.546476 14.641949 0.636215 units box 
+create_atoms 1 single 1.310429 27.474246 23.611686 units box 
+create_atoms 1 single 2.062186 14.561021 2.723521 units box 
+create_atoms 1 single 15.667796 16.808000 31.610928 units box 
+create_atoms 1 single 12.811211 13.150103 8.158135 units box 
+create_atoms 1 single 1.546934 9.029786 33.162528 units box 
+create_atoms 1 single 22.377398 21.812483 28.663665 units box 
+create_atoms 1 single 1.104680 1.582929 28.168837 units box 
+create_atoms 1 single 31.961747 16.450283 16.952370 units box 
+create_atoms 1 single 6.610624 25.999810 0.494585 units box 
+create_atoms 1 single 24.522108 1.357115 3.940842 units box 
+create_atoms 1 single 11.346099 33.068159 25.597818 units box 
+create_atoms 1 single 25.100730 28.203705 6.686979 units box 
+create_atoms 1 single 3.064932 18.333450 25.569914 units box 
+create_atoms 1 single 24.948640 32.468874 30.646072 units box 
+create_atoms 1 single 3.492504 16.896015 1.030632 units box 
+create_atoms 1 single 7.655610 20.284613 6.322490 units box 
+create_atoms 1 single 12.439230 7.997188 31.754520 units box 
+create_atoms 1 single 11.697431 7.139017 6.135106 units box 
+create_atoms 1 single 5.795023 6.105205 2.763359 units box 
+create_atoms 1 single 13.239649 23.582108 14.016993 units box 
+create_atoms 1 single 27.494805 14.996034 0.813410 units box 
+create_atoms 1 single 12.543524 26.183236 9.077155 units box 
+create_atoms 1 single 15.613121 17.321560 24.838596 units box 
+create_atoms 1 single 11.136215 30.425863 22.725751 units box 
+create_atoms 1 single 29.958912 2.425688 15.369318 units box 
+create_atoms 1 single 9.661826 22.830855 19.793001 units box 
+create_atoms 1 single 25.747730 18.048874 7.510119 units box 
+create_atoms 1 single 6.036515 31.918149 8.585507 units box 
+create_atoms 1 single 32.646270 1.314323 30.569741 units box 
+create_atoms 1 single 3.874991 26.224512 32.579182 units box 
+create_atoms 1 single 24.522502 9.713053 17.970512 units box 
+create_atoms 1 single 32.119305 2.648844 27.683400 units box 
+create_atoms 1 single 3.075604 23.392073 19.947481 units box 
+create_atoms 1 single 6.224569 26.827194 17.054203 units box 
+create_atoms 1 single 10.805786 18.677572 7.493419 units box 
+create_atoms 1 single 2.001044 1.692625 1.973360 units box 
+create_atoms 1 single 27.529744 25.569782 9.056980 units box 
+create_atoms 1 single 6.949368 17.048761 24.371316 units box 
+create_atoms 1 single 22.063813 30.124251 3.983945 units box 
+create_atoms 1 single 29.993745 10.794167 2.218202 units box 
+create_atoms 1 single 9.847073 3.144994 7.141053 units box 
+create_atoms 1 single 27.057887 31.573083 20.004143 units box 
+create_atoms 1 single 21.843060 14.850765 22.909487 units box 
+create_atoms 1 single 3.664634 2.508354 30.617391 units box 
+create_atoms 1 single 15.849515 6.654148 29.907183 units box 
+create_atoms 1 single 14.059747 16.539185 21.164782 units box 
+create_atoms 1 single 28.864380 1.931482 26.186825 units box 
+create_atoms 1 single 7.482138 4.013399 0.689017 units box 
+create_atoms 1 single 21.745503 16.179348 27.272396 units box 
+create_atoms 1 single 19.464162 3.032416 23.763061 units box 
+create_atoms 1 single 7.124265 0.783123 29.952343 units box 
+create_atoms 1 single 9.187169 3.349578 30.768214 units box 
+create_atoms 1 single 8.919451 14.693268 2.639398 units box 
+create_atoms 1 single 31.569412 9.894816 6.865312 units box 
+create_atoms 1 single 29.208290 10.111772 23.228834 units box 
+create_atoms 1 single 12.724923 21.577689 11.595864 units box 
+create_atoms 1 single 22.565020 30.055764 16.931839 units box 
+create_atoms 1 single 16.055564 32.962170 29.548304 units box 
+create_atoms 1 single 12.136278 0.149759 15.331909 units box 
+create_atoms 1 single 24.477185 28.751238 14.405237 units box 
+create_atoms 1 single 20.240066 31.854286 19.764194 units box 
+create_atoms 1 single 3.859583 32.040873 3.934315 units box 
+create_atoms 1 single 20.999788 31.585118 14.253480 units box 
+create_atoms 1 single 18.333986 14.676085 18.761780 units box 
+create_atoms 1 single 6.628746 30.271102 3.259055 units box 
+create_atoms 1 single 19.981135 28.318148 33.015864 units box 
+create_atoms 1 single 12.511807 23.397431 17.498675 units box 
+create_atoms 1 single 6.270158 9.281608 8.120858 units box 
+create_atoms 1 single 5.410474 29.204077 9.409758 units box 
+create_atoms 1 single 29.775428 20.845525 31.186787 units box 
+create_atoms 1 single 31.357092 13.014945 14.518613 units box 
+create_atoms 1 single 1.682904 28.482309 30.062563 units box 
+create_atoms 1 single 23.127414 8.019776 0.892746 units box 
+create_atoms 1 single 9.861733 7.841617 15.488593 units box 
+create_atoms 1 single 8.859522 0.318426 21.608866 units box 
+create_atoms 1 single 13.795535 19.479379 1.230633 units box 
+create_atoms 1 single 30.023614 13.887584 11.575372 units box 
+create_atoms 1 single 30.719983 12.845774 26.801158 units box 
+create_atoms 1 single 15.734848 14.850574 18.309611 units box 
+create_atoms 1 single 4.702045 27.863188 21.347106 units box 
+create_atoms 1 single 12.715916 8.622651 13.189540 units box 
+create_atoms 1 single 11.527142 3.785461 5.457780 units box 
+create_atoms 1 single 6.258207 27.494287 3.080013 units box 
+create_atoms 1 single 8.702696 17.142222 15.512252 units box 
+create_atoms 1 single 32.324737 24.520621 12.763154 units box 
+create_atoms 1 single 21.010825 16.091793 12.840285 units box 
+create_atoms 1 single 15.562676 4.484900 23.283167 units box 
+create_atoms 1 single 15.355072 7.236017 4.686667 units box 
+create_atoms 1 single 30.892770 15.272875 21.019567 units box 
+create_atoms 1 single 5.098602 12.720652 9.340406 units box 
+create_atoms 1 single 15.794464 6.526828 20.251696 units box 
+create_atoms 1 single 21.573550 8.732227 19.887488 units box 
+create_atoms 1 single 18.374595 2.895776 30.118154 units box 
+create_atoms 1 single 22.977354 6.211059 10.498034 units box 
+create_atoms 1 single 22.139724 26.182270 32.458918 units box 
+create_atoms 1 single 20.265504 3.597834 9.207208 units box 
+create_atoms 1 single 33.405035 4.761856 16.512897 units box 
+create_atoms 1 single 31.533692 26.501772 21.998069 units box 
+create_atoms 1 single 15.733085 19.241470 28.134834 units box 
+create_atoms 1 single 25.274268 3.069050 12.498060 units box 
+create_atoms 1 single 9.905957 17.915850 19.350816 units box 
+create_atoms 1 single 12.984227 18.101282 25.021365 units box 
+create_atoms 1 single 20.260635 27.172962 18.327021 units box 
+create_atoms 1 single 8.617208 12.201982 9.127580 units box 
+create_atoms 1 single 27.693833 22.544785 5.501468 units box 
+create_atoms 1 single 21.063025 1.429397 1.873039 units box 
+create_atoms 1 single 17.200470 31.497874 18.548576 units box 
+create_atoms 1 single 3.812736 15.872660 22.233408 units box 
+create_atoms 1 single 13.286883 4.176280 26.803684 units box 
+create_atoms 1 single 17.605922 3.835430 3.648923 units box 
+create_atoms 1 single 21.944618 33.322158 23.070021 units box 
+create_atoms 1 single 6.159621 17.029618 8.628253 units box 
+create_atoms 1 single 17.499505 19.855023 33.010045 units box 
+create_atoms 1 single 14.741102 31.723533 16.506377 units box 
+create_atoms 1 single 31.055972 7.775291 18.256985 units box 
+create_atoms 1 single 24.628448 12.074297 21.109522 units box 
+create_atoms 1 single 4.590036 9.553320 0.836236 units box 
+create_atoms 1 single 22.376600 19.307287 1.620522 units box 
+create_atoms 1 single 27.096840 27.930487 15.102276 units box 
+create_atoms 1 single 2.106211 6.781446 30.521499 units box 
+create_atoms 1 single 19.471343 6.224890 29.322876 units box 
+create_atoms 1 single 16.924203 5.694324 8.176527 units box 
+create_atoms 1 single 4.984525 29.291145 5.946991 units box 
+create_atoms 1 single 20.469957 14.621076 8.835307 units box 
+create_atoms 1 single 3.228759 26.210985 15.344230 units box 
+create_atoms 1 single 2.836195 9.770584 6.506937 units box 
+create_atoms 1 single 23.280396 27.955079 11.664679 units box 
+create_atoms 1 single 31.042305 8.208254 21.052900 units box 
+create_atoms 1 single 23.243122 0.676059 27.825246 units box 
+create_atoms 1 single 30.761731 31.922177 30.011075 units box 
+create_atoms 1 single 1.014457 22.488811 11.924396 units box 
+create_atoms 1 single 11.310385 15.577058 26.461050 units box 
+create_atoms 1 single 14.445343 1.122333 24.736824 units box 
+create_atoms 1 single 17.943385 0.106055 32.574488 units box 
+create_atoms 1 single 14.483286 29.423163 29.366565 units box 
+create_atoms 1 single 28.481405 3.352455 33.274121 units box 
+create_atoms 1 single 26.891733 4.086405 26.519092 units box 
+create_atoms 1 single 26.720080 6.058919 11.100356 units box 
+create_atoms 1 single 2.644803 22.904733 9.582733 units box 
+create_atoms 1 single 15.924091 14.377186 27.734485 units box 
+create_atoms 1 single 21.768484 25.906877 11.771929 units box 
+create_atoms 1 single 28.301360 31.407417 10.609868 units box 
+create_atoms 1 single 30.823093 24.140021 24.021631 units box 
+create_atoms 1 single 2.762199 10.744965 10.615901 units box 
+create_atoms 1 single 5.407141 22.758429 6.234805 units box 
+create_atoms 1 single 31.066159 24.024084 0.181487 units box 
+create_atoms 1 single 33.030424 21.434870 25.026696 units box 
+create_atoms 1 single 23.453945 11.742098 29.944353 units box 
+create_atoms 1 single 24.348482 9.813179 32.405857 units box 
+create_atoms 1 single 32.104405 7.194080 32.826828 units box 
+create_atoms 1 single 19.535531 17.225072 2.755811 units box 
+create_atoms 1 single 13.988262 0.268723 27.441428 units box 
+create_atoms 1 single 20.699412 26.817461 21.778056 units box 
+create_atoms 1 single 23.523687 8.662505 8.090168 units box 
+create_atoms 1 single 1.880618 16.962887 8.389555 units box 
+create_atoms 1 single 26.869616 12.730523 31.066423 units box 
+create_atoms 1 single 27.194765 15.004131 13.126987 units box 
+create_atoms 1 single 11.330944 31.511574 18.867703 units box 
+create_atoms 1 single 20.869548 10.441511 25.325657 units box 
+create_atoms 1 single 14.725949 17.314540 2.594194 units box 
+create_atoms 1 single 31.329296 25.129788 6.056137 units box 
+create_atoms 1 single 19.830502 5.512868 1.011925 units box 
+create_atoms 1 single 9.790648 27.860880 32.730360 units box 
+create_atoms 1 single 29.052202 7.487548 0.883615 units box 
+create_atoms 1 single 19.924789 7.331443 5.731018 units box 
+create_atoms 1 single 29.370799 9.250070 4.143837 units box 
+create_atoms 1 single 18.549992 29.405732 20.316527 units box 
+create_atoms 1 single 26.881648 29.112071 32.478520 units box 
+create_atoms 1 single 8.894716 14.006547 24.984195 units box 
+create_atoms 1 single 4.362377 22.996993 3.662043 units box 
+create_atoms 1 single 13.810457 13.984985 33.190776 units box 
+create_atoms 1 single 11.679364 23.976377 11.327194 units box 
+create_atoms 1 single 33.261667 22.895077 2.647706 units box 
+create_atoms 1 single 30.507340 21.067706 4.143930 units box 
+create_atoms 1 single 16.991930 1.413280 24.362442 units box 
+create_atoms 1 single 26.509877 1.223273 10.390822 units box 
+create_atoms 1 single 32.933963 20.603885 14.601525 units box 
+create_atoms 1 single 10.562461 16.564548 12.581078 units box 
+create_atoms 1 single 17.510467 22.425416 4.725151 units box 
+create_atoms 1 single 12.647922 30.219152 16.583497 units box 
+create_atoms 1 single 26.710223 8.247625 8.240870 units box 
+create_atoms 1 single 31.565441 26.785158 25.342065 units box 
+create_atoms 1 single 23.962970 31.074271 5.825354 units box 
+create_atoms 1 single 22.262068 0.448335 30.410773 units box 
+create_atoms 1 single 1.524499 3.336804 6.698775 units box 
+create_atoms 1 single 24.425459 18.631078 10.138762 units box 
+create_atoms 1 single 25.198360 8.308885 21.584048 units box 
+create_atoms 1 single 29.375052 27.334125 12.319077 units box 
+create_atoms 1 single 1.553223 17.575561 4.455844 units box 
+create_atoms 1 single 28.740353 18.027214 33.151639 units box 
+create_atoms 1 single 6.706747 12.234449 4.924345 units box 
+create_atoms 1 single 27.556911 12.822541 21.094184 units box 
+create_atoms 1 single 18.010920 24.578048 16.251396 units box 
+create_atoms 1 single 7.308803 14.089865 15.066563 units box 
+create_atoms 1 single 6.518451 17.329695 21.045565 units box 
+create_atoms 1 single 21.821757 32.277926 7.686126 units box 
+create_atoms 1 single 24.137124 31.648640 12.307326 units box 
+create_atoms 1 single 32.076970 10.818960 11.208354 units box 
+create_atoms 1 single 2.939611 25.671177 2.590659 units box 
+create_atoms 1 single 18.695142 8.234104 32.317582 units box 
+create_atoms 1 single 13.509563 6.184125 17.873376 units box 
+create_atoms 1 single 9.332963 23.846748 0.129249 units box 
+create_atoms 1 single 11.298498 3.661427 0.779263 units box 
+create_atoms 1 single 8.635290 33.323622 16.866071 units box 
+create_atoms 1 single 31.322204 0.477082 11.588799 units box 
+create_atoms 1 single 6.505415 2.602961 31.704352 units box 
+create_atoms 1 single 26.806042 20.218616 17.884870 units box 
+create_atoms 1 single 10.398713 9.920865 24.948130 units box 
+create_atoms 1 single 16.203258 16.178154 0.664908 units box 
+create_atoms 1 single 23.912535 21.638730 33.118829 units box 
+create_atoms 1 single 4.974069 13.853389 19.659135 units box 
+create_atoms 1 single 23.321015 32.862588 19.089528 units box 
+create_atoms 1 single 5.719150 18.898264 3.238041 units box 
+create_atoms 1 single 33.395256 26.141114 32.783029 units box 
+create_atoms 1 single 19.049989 13.379618 5.851815 units box 
+create_atoms 1 single 22.896429 9.662757 3.827414 units box 
+create_atoms 1 single 1.565198 32.226533 30.876092 units box 
+create_atoms 1 single 11.525422 17.489651 16.730091 units box 
+create_atoms 1 single 13.122768 27.931335 3.360651 units box 
+create_atoms 1 single 31.794675 9.852072 0.511884 units box 
+create_atoms 1 single 24.747625 9.168531 28.102697 units box 
+create_atoms 1 single 7.544525 31.720929 10.650135 units box 
+create_atoms 1 single 19.136950 7.472401 9.974030 units box 
+create_atoms 1 single 3.994437 7.028840 22.026625 units box 
+create_atoms 1 single 22.971210 6.201282 17.959344 units box 
+create_atoms 1 single 26.852844 16.166824 31.355500 units box 
+create_atoms 1 single 10.450122 7.022051 1.146876 units box 
+create_atoms 1 single 30.866530 18.428967 21.884045 units box 
+create_atoms 1 single 30.092189 4.558682 22.806448 units box 
+create_atoms 1 single 0.478375 4.444625 3.010628 units box 
+create_atoms 1 single 19.265370 33.071941 9.845301 units box 
+create_atoms 1 single 23.317884 29.655078 24.766691 units box 
+create_atoms 1 single 27.580906 10.146584 16.512869 units box 
+create_atoms 1 single 33.380080 11.655349 3.156293 units box 
+create_atoms 1 single 26.457913 18.912971 3.009111 units box 
+create_atoms 1 single 12.819943 15.966482 29.956754 units box 
+create_atoms 1 single 9.321953 20.518652 2.825138 units box 
+create_atoms 1 single 33.415533 28.845309 15.456596 units box 
+create_atoms 1 single 5.839580 14.175694 33.152992 units box 
+create_atoms 1 single 2.917986 12.888705 23.310837 units box 
+create_atoms 1 single 4.626543 12.784979 16.569305 units box 
+create_atoms 1 single 17.413499 18.352816 22.778720 units box 
+create_atoms 1 single 1.379008 29.120167 26.571612 units box 
+create_atoms 1 single 13.998535 3.280928 3.600692 units box 
+create_atoms 1 single 17.077425 32.398127 7.543180 units box 
+create_atoms 1 single 21.838513 26.696309 5.173373 units box 
+create_atoms 1 single 32.334051 9.643623 30.563419 units box 
+create_atoms 1 single 9.877110 0.040365 32.427902 units box 
+create_atoms 1 single 9.121986 8.822127 9.190240 units box 
+create_atoms 1 single 20.729720 23.124486 8.637925 units box 
+create_atoms 1 single 6.802530 11.883428 1.750192 units box 
+create_atoms 1 single 9.298614 12.905389 33.021089 units box 
+create_atoms 1 single 5.787909 10.736422 25.806523 units box 
+create_atoms 1 single 3.710706 8.051475 3.840844 units box 
+create_atoms 1 single 32.756449 19.233132 9.284492 units box 
+create_atoms 1 single 15.326176 3.181958 30.016860 units box 
+create_atoms 1 single 25.664486 28.738259 10.174428 units box 
+create_atoms 1 single 26.106340 22.947083 11.054628 units box 
+create_atoms 1 single 18.698761 0.047063 14.887080 units box 
+create_atoms 1 single 7.353275 30.094251 19.414836 units box 
+create_atoms 1 single 22.708817 12.434707 18.429189 units box 
+create_atoms 1 single 30.849499 25.888131 15.351893 units box 
+create_atoms 1 single 4.179834 20.333055 21.344746 units box 
+create_atoms 1 single 20.884410 28.258604 30.164126 units box 
+create_atoms 1 single 31.313508 3.964292 13.264926 units box 
+create_atoms 1 single 6.083470 6.639098 6.075172 units box 
+create_atoms 1 single 10.922086 12.539296 27.061280 units box 
+create_atoms 1 single 11.476854 1.689968 18.462757 units box 
+create_atoms 1 single 12.687783 22.372128 2.406755 units box 
+create_atoms 1 single 12.795614 19.993634 14.318846 units box 
+create_atoms 1 single 8.033340 25.985582 30.975401 units box 
+create_atoms 1 single 5.994428 21.932957 27.872235 units box 
+create_atoms 1 single 3.357571 18.209772 15.440325 units box 
+create_atoms 1 single 14.811647 5.863579 1.181781 units box 
+create_atoms 1 single 17.715349 0.720322 21.110465 units box 
+create_atoms 1 single 0.575234 12.055822 17.863613 units box 
+create_atoms 1 single 12.556813 1.929177 29.614178 units box 
+create_atoms 1 single 0.194362 31.595502 17.435785 units box 
+create_atoms 1 single 32.266211 18.150322 32.587910 units box 
+create_atoms 1 single 0.844078 11.521752 13.881465 units box 
+create_atoms 1 single 9.403222 19.167343 24.788449 units box 
+create_atoms 1 single 2.120476 32.297553 1.435545 units box 
+create_atoms 1 single 15.974159 23.470430 10.396789 units box 
+create_atoms 1 single 32.154890 7.901772 24.219251 units box 
+create_atoms 1 single 3.019064 10.480125 29.875618 units box 
+create_atoms 1 single 11.293845 12.950099 22.781875 units box 
+create_atoms 1 single 7.176374 23.468006 14.968820 units box 
+create_atoms 1 single 14.776903 27.705358 21.850510 units box 
+create_atoms 1 single 0.796907 5.588249 24.037544 units box 
+create_atoms 1 single 19.421427 0.928468 5.818019 units box 
+create_atoms 1 single 20.865340 22.289855 31.699026 units box 
+create_atoms 1 single 33.324328 20.697591 5.907011 units box 
+create_atoms 1 single 17.232169 8.616771 8.041696 units box 
+create_atoms 1 single 0.922468 11.578499 22.277425 units box 
+create_atoms 1 single 18.978398 25.743408 13.235614 units box 
+create_atoms 1 single 14.655639 17.294768 16.877188 units box 
+create_atoms 1 single 3.391842 20.081452 7.132132 units box 
+create_atoms 1 single 1.652724 0.574737 18.163578 units box 
+create_atoms 1 single 24.061038 1.993040 20.687504 units box 
+create_atoms 1 single 32.503165 26.214167 18.361180 units box 
+create_atoms 1 single 30.340680 16.642125 9.108245 units box 
+create_atoms 1 single 31.821743 30.918758 9.580388 units box 
+create_atoms 1 single 24.400440 14.248245 32.611856 units box 
+create_atoms 1 single 14.256236 30.603408 23.905714 units box 
+create_atoms 1 single 21.876754 23.624232 16.153041 units box 
+create_atoms 1 single 19.817192 7.609984 26.670224 units box 
+create_atoms 1 single 19.722744 30.693781 25.389068 units box 
+create_atoms 1 single 30.172270 23.959989 20.675095 units box 
+create_atoms 1 single 6.072792 8.923926 15.874281 units box 
+create_atoms 1 single 21.890058 30.277906 1.296309 units box 
+create_atoms 1 single 8.184217 27.203975 5.651201 units box 
+create_atoms 1 single 6.583851 0.941072 11.239380 units box 
+create_atoms 1 single 31.347430 21.141092 21.556095 units box 
+create_atoms 1 single 23.713083 32.276142 1.923929 units box 
+create_atoms 1 single 7.403349 14.792558 11.670041 units box 
+create_atoms 1 single 6.956130 17.960852 12.788678 units box 
+create_atoms 1 single 6.766776 24.630455 24.883882 units box 
+create_atoms 1 single 2.438719 6.979272 1.762203 units box 
+create_atoms 1 single 22.213779 4.898207 21.574736 units box 
+create_atoms 1 single 25.760046 3.859093 22.592107 units box 
+create_atoms 1 single 8.477594 6.043419 28.785345 units box 
+create_atoms 1 single 8.872725 5.643103 4.143008 units box 
+create_atoms 1 single 18.664539 9.840959 12.578040 units box 
+create_atoms 1 single 26.178777 7.416890 4.466506 units box 
+create_atoms 1 single 29.139865 2.576046 9.323384 units box 
+create_atoms 1 single 7.984790 30.269341 31.835450 units box 
+create_atoms 1 single 20.739880 5.821652 12.244193 units box 
+create_atoms 1 single 21.081584 5.326770 15.479376 units box 
+create_atoms 1 single 0.946491 15.808825 20.068889 units box 
+create_atoms 1 single 12.217117 27.693184 30.777098 units box 
+create_atoms 1 single 21.788073 30.894178 28.761987 units box 
+set atom 1 diameter 3.458132 density ${rhos} vx -3.639926 vy 0.668608 vz 4.247724 
+set atom 2 diameter 3.441495 density ${rhos} vx 2.888913 vy 1.803950 vz 1.420794 
+set atom 3 diameter 3.549097 density ${rhos} vx -4.076015 vy -1.286214 vz -3.955003 
+set atom 4 diameter 2.699243 density ${rhos} vx -2.621312 vy -4.217713 vz 2.002251 
+set atom 5 diameter 3.489638 density ${rhos} vx -2.563521 vy -0.436493 vz -1.041957 
+set atom 6 diameter 3.756658 density ${rhos} vx -3.951778 vy -4.521562 vz -4.150952 
+set atom 7 diameter 4.177022 density ${rhos} vx 3.583528 vy 2.382570 vz -2.855211 
+set atom 8 diameter 4.021901 density ${rhos} vx 1.981998 vy -4.619985 vz -2.512011 
+set atom 9 diameter 3.622802 density ${rhos} vx 2.337421 vy 4.542443 vz -2.733469 
+set atom 10 diameter 2.551978 density ${rhos} vx 1.505306 vy 2.423723 vz 2.030044 
+set atom 11 diameter 4.541930 density ${rhos} vx 0.162706 vy 4.374496 vz 2.541526 
+set atom 12 diameter 3.972920 density ${rhos} vx -1.736119 vy 0.133640 vz 0.472866 
+set atom 13 diameter 2.575937 density ${rhos} vx 1.617762 vy -2.590952 vz 0.534834 
+set atom 14 diameter 3.948899 density ${rhos} vx -3.824345 vy -2.400347 vz 1.305728 
+set atom 15 diameter 3.341999 density ${rhos} vx -3.521826 vy 2.589742 vz 4.854570 
+set atom 16 diameter 3.659303 density ${rhos} vx -4.802353 vy 4.933428 vz 1.342782 
+set atom 17 diameter 2.924573 density ${rhos} vx 4.642917 vy -1.432943 vz 1.004556 
+set atom 18 diameter 2.598275 density ${rhos} vx 4.703729 vy 2.528578 vz 4.091870 
+set atom 19 diameter 3.675056 density ${rhos} vx -3.761395 vy -3.899515 vz 0.708366 
+set atom 20 diameter 2.905489 density ${rhos} vx -0.325900 vy 0.970452 vz -1.645801 
+set atom 21 diameter 3.598498 density ${rhos} vx 1.566940 vy -0.694048 vz 4.571392 
+set atom 22 diameter 3.297770 density ${rhos} vx -2.098144 vy 2.307180 vz -0.600769 
+set atom 23 diameter 3.838884 density ${rhos} vx 2.545366 vy -2.388238 vz 1.015426 
+set atom 24 diameter 2.789857 density ${rhos} vx 0.581181 vy -4.051923 vz 2.202624 
+set atom 25 diameter 3.494898 density ${rhos} vx -0.722074 vy -0.490365 vz 1.787783 
+set atom 26 diameter 3.735444 density ${rhos} vx -2.328059 vy 1.400745 vz -2.872410 
+set atom 27 diameter 2.450355 density ${rhos} vx 2.537361 vy -3.679612 vz -4.183766 
+set atom 28 diameter 3.518290 density ${rhos} vx 3.983763 vy -0.471776 vz -2.255206 
+set atom 29 diameter 2.565902 density ${rhos} vx 2.284440 vy 1.521996 vz 3.675184 
+set atom 30 diameter 2.960142 density ${rhos} vx -0.931699 vy 3.269983 vz 0.593571 
+set atom 31 diameter 2.353400 density ${rhos} vx 4.383158 vy -1.919231 vz -0.353722 
+set atom 32 diameter 3.977165 density ${rhos} vx -2.445725 vy -0.976364 vz -0.696991 
+set atom 33 diameter 3.356434 density ${rhos} vx 0.331632 vy 3.842313 vz 2.739859 
+set atom 34 diameter 3.274544 density ${rhos} vx 4.547549 vy 2.005795 vz 1.539204 
+set atom 35 diameter 3.947384 density ${rhos} vx -2.322525 vy -2.581277 vz 1.577293 
+set atom 36 diameter 3.039419 density ${rhos} vx -2.499154 vy 2.598318 vz -3.389791 
+set atom 37 diameter 4.437558 density ${rhos} vx 4.276727 vy -2.090743 vz -0.676232 
+set atom 38 diameter 2.494847 density ${rhos} vx -4.314177 vy -2.225613 vz 0.050861 
+set atom 39 diameter 4.616649 density ${rhos} vx -2.005996 vy -4.938922 vz -1.246677 
+set atom 40 diameter 2.465197 density ${rhos} vx 0.915835 vy -1.252889 vz -0.196278 
+set atom 41 diameter 3.704528 density ${rhos} vx -2.967009 vy -0.630672 vz -1.575786 
+set atom 42 diameter 3.318269 density ${rhos} vx 1.358832 vy -1.957015 vz 2.771464 
+set atom 43 diameter 2.928438 density ${rhos} vx 2.983703 vy -2.091397 vz -1.160561 
+set atom 44 diameter 2.878813 density ${rhos} vx 0.017011 vy -2.574837 vz 2.115564 
+set atom 45 diameter 3.552939 density ${rhos} vx 1.508121 vy 4.366836 vz -0.190666 
+set atom 46 diameter 3.063770 density ${rhos} vx 2.959550 vy 3.601902 vz 2.291802 
+set atom 47 diameter 3.137165 density ${rhos} vx -2.666262 vy -1.027717 vz 4.375592 
+set atom 48 diameter 3.676165 density ${rhos} vx 1.008389 vy -0.205809 vz 0.172544 
+set atom 49 diameter 3.584938 density ${rhos} vx -3.875376 vy 0.649961 vz 4.030687 
+set atom 50 diameter 2.955068 density ${rhos} vx 0.157657 vy -0.103806 vz -2.818074 
+set atom 51 diameter 3.473857 density ${rhos} vx 3.378407 vy -2.301884 vz 3.732193 
+set atom 52 diameter 3.465008 density ${rhos} vx 4.207901 vy 4.897401 vz -4.173071 
+set atom 53 diameter 2.861449 density ${rhos} vx -0.017721 vy -3.163243 vz -0.345966 
+set atom 54 diameter 3.777296 density ${rhos} vx -2.223889 vy 3.616567 vz -4.780702 
+set atom 55 diameter 3.602822 density ${rhos} vx 1.525200 vy -4.673674 vz 3.082806 
+set atom 56 diameter 4.098438 density ${rhos} vx 4.172988 vy -1.680420 vz -3.207905 
+set atom 57 diameter 3.931755 density ${rhos} vx 0.098395 vy 2.487470 vz -3.346078 
+set atom 58 diameter 3.075170 density ${rhos} vx 4.741915 vy 1.443665 vz -3.183965 
+set atom 59 diameter 3.232996 density ${rhos} vx -3.027211 vy -3.307620 vz 1.914366 
+set atom 60 diameter 3.120375 density ${rhos} vx -3.888150 vy 4.522051 vz -2.862365 
+set atom 61 diameter 3.102391 density ${rhos} vx -2.026457 vy 0.432702 vz -2.018951 
+set atom 62 diameter 3.319227 density ${rhos} vx -1.035815 vy -2.485865 vz 2.683351 
+set atom 63 diameter 4.078495 density ${rhos} vx -0.792443 vy 0.785723 vz 0.011501 
+set atom 64 diameter 2.863747 density ${rhos} vx -1.885246 vy 4.154766 vz 4.094648 
+set atom 65 diameter 2.086407 density ${rhos} vx 1.938432 vy 3.955965 vz -4.421471 
+set atom 66 diameter 3.851752 density ${rhos} vx -4.081282 vy -0.174934 vz -0.632481 
+set atom 67 diameter 5.009788 density ${rhos} vx -0.979114 vy -0.572600 vz 0.722547 
+set atom 68 diameter 3.508126 density ${rhos} vx -2.048192 vy -1.882450 vz 0.650672 
+set atom 69 diameter 3.967264 density ${rhos} vx -1.935032 vy -4.446862 vz 3.238166 
+set atom 70 diameter 2.745316 density ${rhos} vx -3.944389 vy 2.537918 vz -3.739012 
+set atom 71 diameter 3.746440 density ${rhos} vx 0.938276 vy -3.680525 vz -1.998832 
+set atom 72 diameter 4.980331 density ${rhos} vx -2.172725 vy -1.440779 vz -4.978780 
+set atom 73 diameter 3.005721 density ${rhos} vx -3.447784 vy -1.041290 vz 4.511074 
+set atom 74 diameter 3.742572 density ${rhos} vx -4.993413 vy 3.855212 vz 2.662994 
+set atom 75 diameter 4.069471 density ${rhos} vx -2.164046 vy -4.787605 vz 2.513042 
+set atom 76 diameter 1.787449 density ${rhos} vx 0.508109 vy 3.440807 vz -3.611352 
+set atom 77 diameter 3.589738 density ${rhos} vx 3.709022 vy -2.119294 vz -1.506805 
+set atom 78 diameter 3.610654 density ${rhos} vx -4.577466 vy -2.496571 vz -3.486594 
+set atom 79 diameter 3.575154 density ${rhos} vx 4.047220 vy -0.116204 vz -0.032793 
+set atom 80 diameter 3.354453 density ${rhos} vx -3.690259 vy 2.290361 vz 3.086523 
+set atom 81 diameter 4.285963 density ${rhos} vx 3.337289 vy -2.973839 vz 1.328688 
+set atom 82 diameter 2.536962 density ${rhos} vx 3.004684 vy -2.837238 vz 1.884015 
+set atom 83 diameter 2.846670 density ${rhos} vx 4.178801 vy 4.763345 vz 1.395702 
+set atom 84 diameter 2.228679 density ${rhos} vx -3.626963 vy 0.932358 vz 2.293217 
+set atom 85 diameter 3.591056 density ${rhos} vx 0.047323 vy -1.955964 vz 3.598457 
+set atom 86 diameter 3.190365 density ${rhos} vx -0.950415 vy 4.677029 vz 1.269554 
+set atom 87 diameter 2.868558 density ${rhos} vx -3.264278 vy 3.959698 vz -3.194086 
+set atom 88 diameter 3.125121 density ${rhos} vx 0.751836 vy -3.099745 vz 0.733065 
+set atom 89 diameter 3.330293 density ${rhos} vx 1.062179 vy -4.982007 vz -3.364338 
+set atom 90 diameter 4.486368 density ${rhos} vx -2.855543 vy 2.117638 vz 4.060517 
+set atom 91 diameter 5.455054 density ${rhos} vx 0.199323 vy 3.677268 vz -4.226572 
+set atom 92 diameter 4.024809 density ${rhos} vx 4.891858 vy -3.816921 vz -1.614653 
+set atom 93 diameter 3.429906 density ${rhos} vx -0.100848 vy -4.609770 vz 0.806175 
+set atom 94 diameter 2.610650 density ${rhos} vx 1.948732 vy 0.981945 vz -0.247648 
+set atom 95 diameter 2.834910 density ${rhos} vx -0.885782 vy 1.043135 vz 3.053205 
+set atom 96 diameter 2.458064 density ${rhos} vx -4.652233 vy 0.164324 vz 0.307781 
+set atom 97 diameter 3.588731 density ${rhos} vx -2.071684 vy -4.924926 vz -2.726897 
+set atom 98 diameter 2.234471 density ${rhos} vx 3.014417 vy 1.889334 vz 2.094850 
+set atom 99 diameter 3.072718 density ${rhos} vx -1.534980 vy 4.460204 vz -3.513674 
+set atom 100 diameter 3.322528 density ${rhos} vx -4.166841 vy 3.735365 vz 1.581162 
+set atom 101 diameter 3.564739 density ${rhos} vx 0.111064 vy -3.867235 vz 1.339825 
+set atom 102 diameter 3.154012 density ${rhos} vx -1.331666 vy -1.454307 vz -2.706937 
+set atom 103 diameter 2.749082 density ${rhos} vx 2.394795 vy -2.580632 vz -3.177720 
+set atom 104 diameter 3.468658 density ${rhos} vx 0.247402 vy 0.603333 vz -3.336475 
+set atom 105 diameter 2.288377 density ${rhos} vx 3.045209 vy 1.127271 vz -3.503929 
+set atom 106 diameter 4.482551 density ${rhos} vx 3.169112 vy -1.991909 vz -2.972526 
+set atom 107 diameter 2.840259 density ${rhos} vx -3.105285 vy 2.981417 vz 4.549589 
+set atom 108 diameter 3.214232 density ${rhos} vx -3.763065 vy 2.956416 vz -4.840917 
+set atom 109 diameter 4.297211 density ${rhos} vx 3.209965 vy 2.810923 vz 4.575144 
+set atom 110 diameter 3.695534 density ${rhos} vx 1.378976 vy -1.489016 vz -4.743077 
+set atom 111 diameter 4.054335 density ${rhos} vx -4.838802 vy -4.457026 vz 4.711107 
+set atom 112 diameter 3.325919 density ${rhos} vx 3.959546 vy 2.087046 vz -2.024043 
+set atom 113 diameter 2.217038 density ${rhos} vx 0.153751 vy 4.929284 vz 0.250731 
+set atom 114 diameter 3.422846 density ${rhos} vx 0.445219 vy -3.375235 vz 3.623392 
+set atom 115 diameter 2.635916 density ${rhos} vx 1.064422 vy -3.864337 vz 3.964049 
+set atom 116 diameter 4.039516 density ${rhos} vx 2.604362 vy 4.128754 vz -3.109894 
+set atom 117 diameter 3.586079 density ${rhos} vx 3.553469 vy -0.183430 vz 1.607196 
+set atom 118 diameter 3.928483 density ${rhos} vx -1.171316 vy 3.518060 vz 4.412309 
+set atom 119 diameter 3.914532 density ${rhos} vx -4.153508 vy 3.099138 vz 4.757071 
+set atom 120 diameter 4.047431 density ${rhos} vx 2.338733 vy -3.132405 vz -3.920647 
+set atom 121 diameter 3.328075 density ${rhos} vx -1.680107 vy -2.528001 vz -3.211008 
+set atom 122 diameter 3.786389 density ${rhos} vx 3.397495 vy -4.458112 vz 2.465514 
+set atom 123 diameter 2.629334 density ${rhos} vx -1.282767 vy 1.089615 vz -4.505315 
+set atom 124 diameter 3.021614 density ${rhos} vx 3.282153 vy 2.772324 vz -4.287151 
+set atom 125 diameter 2.777805 density ${rhos} vx -3.234814 vy 0.110641 vz -0.108745 
+set atom 126 diameter 3.570353 density ${rhos} vx -3.704801 vy -4.722499 vz 3.498938 
+set atom 127 diameter 2.871217 density ${rhos} vx 3.798836 vy 4.903853 vz 4.970414 
+set atom 128 diameter 4.424764 density ${rhos} vx -4.559209 vy 0.009399 vz -4.956074 
+set atom 129 diameter 2.525003 density ${rhos} vx 1.867200 vy -1.680025 vz 0.426075 
+set atom 130 diameter 2.507730 density ${rhos} vx 2.337729 vy -3.261169 vz 3.613482 
+set atom 131 diameter 2.735235 density ${rhos} vx -0.628276 vy 1.256364 vz 4.091390 
+set atom 132 diameter 2.487928 density ${rhos} vx -1.201611 vy 0.751348 vz 3.453506 
+set atom 133 diameter 4.851887 density ${rhos} vx 4.796574 vy 2.509854 vz 3.788729 
+set atom 134 diameter 4.575664 density ${rhos} vx -1.010066 vy -3.464812 vz 2.461822 
+set atom 135 diameter 2.757553 density ${rhos} vx -0.598131 vy -1.432128 vz -3.825106 
+set atom 136 diameter 4.237134 density ${rhos} vx -3.431921 vy -3.560492 vz 0.090223 
+set atom 137 diameter 3.561730 density ${rhos} vx -1.739657 vy 3.506077 vz -3.311682 
+set atom 138 diameter 3.426527 density ${rhos} vx -1.859381 vy -1.621303 vz 3.311115 
+set atom 139 diameter 2.998416 density ${rhos} vx 3.945007 vy -2.248035 vz 4.280109 
+set atom 140 diameter 3.162848 density ${rhos} vx -2.529758 vy -4.939890 vz -3.305156 
+set atom 141 diameter 3.607067 density ${rhos} vx -1.893210 vy 3.019120 vz 3.837373 
+set atom 142 diameter 2.327986 density ${rhos} vx -0.911311 vy -0.025917 vz -1.121371 
+set atom 143 diameter 3.036491 density ${rhos} vx 2.080109 vy 0.378428 vz -1.174305 
+set atom 144 diameter 2.938177 density ${rhos} vx -3.563624 vy 3.709125 vz -2.285471 
+set atom 145 diameter 2.753502 density ${rhos} vx 3.713221 vy 2.228436 vz 3.678831 
+set atom 146 diameter 6.140692 density ${rhos} vx -4.168441 vy 1.680859 vz 2.415025 
+set atom 147 diameter 2.621337 density ${rhos} vx -0.382622 vy -3.211722 vz -0.521273 
+set atom 148 diameter 4.952473 density ${rhos} vx -4.696110 vy 0.504954 vz 2.096389 
+set atom 149 diameter 3.631396 density ${rhos} vx 2.532005 vy 4.598751 vz 4.443313 
+set atom 150 diameter 4.355527 density ${rhos} vx 2.000427 vy 0.960217 vz -3.258821 
+set atom 151 diameter 3.726404 density ${rhos} vx -2.854878 vy 3.085707 vz -2.554037 
+set atom 152 diameter 2.824048 density ${rhos} vx 1.799047 vy 4.845324 vz 1.409291 
+set atom 153 diameter 3.456307 density ${rhos} vx 0.572927 vy 3.859244 vz 3.086125 
+set atom 154 diameter 3.419002 density ${rhos} vx 3.506789 vy -2.861630 vz 3.533710 
+set atom 155 diameter 3.478974 density ${rhos} vx 0.585655 vy -4.653699 vz -1.018824 
+set atom 156 diameter 3.350982 density ${rhos} vx 4.017737 vy -0.488762 vz -3.845062 
+set atom 157 diameter 3.416646 density ${rhos} vx -0.804823 vy -4.862054 vz -4.197190 
+set atom 158 diameter 4.115734 density ${rhos} vx -1.418716 vy -0.262893 vz -1.395324 
+set atom 159 diameter 3.306308 density ${rhos} vx -0.110125 vy 4.511971 vz 3.289055 
+set atom 160 diameter 3.163266 density ${rhos} vx -2.440379 vy -2.510477 vz -2.853903 
+set atom 161 diameter 2.890619 density ${rhos} vx 4.291693 vy -1.135772 vz 2.910403 
+set atom 162 diameter 3.847206 density ${rhos} vx -0.332432 vy -0.685666 vz 1.546883 
+set atom 163 diameter 2.379550 density ${rhos} vx -2.459921 vy 3.308865 vz -4.738536 
+set atom 164 diameter 2.853809 density ${rhos} vx -0.687816 vy 3.246468 vz 2.857763 
+set atom 165 diameter 2.608709 density ${rhos} vx 2.025300 vy -0.470014 vz 4.225630 
+set atom 166 diameter 2.600402 density ${rhos} vx -0.976701 vy -1.194398 vz -0.076869 
+set atom 167 diameter 3.245720 density ${rhos} vx -3.181599 vy 4.258685 vz 3.340117 
+set atom 168 diameter 3.895174 density ${rhos} vx 3.562511 vy 2.408436 vz -3.686463 
+set atom 169 diameter 4.377188 density ${rhos} vx 0.842012 vy 2.376331 vz 2.597835 
+set atom 170 diameter 3.412859 density ${rhos} vx -1.264212 vy 4.469160 vz 4.257362 
+set atom 171 diameter 3.062824 density ${rhos} vx -2.783055 vy 0.100997 vz 3.327076 
+set atom 172 diameter 4.123886 density ${rhos} vx -2.810059 vy 2.918792 vz -2.405988 
+set atom 173 diameter 3.615724 density ${rhos} vx 0.222324 vy -0.478265 vz -2.869782 
+set atom 174 diameter 4.496668 density ${rhos} vx -0.665773 vy 3.491987 vz 0.223148 
+set atom 175 diameter 3.407302 density ${rhos} vx 2.413040 vy -1.095692 vz -1.026429 
+set atom 176 diameter 2.873916 density ${rhos} vx -4.295504 vy 2.383765 vz -0.208902 
+set atom 177 diameter 2.666061 density ${rhos} vx 3.473334 vy 4.764386 vz 4.939036 
+set atom 178 diameter 4.632430 density ${rhos} vx 1.798802 vy 0.232991 vz 1.044785 
+set atom 179 diameter 3.094318 density ${rhos} vx -3.633485 vy -0.700847 vz 4.449086 
+set atom 180 diameter 3.460958 density ${rhos} vx 3.584022 vy -2.928419 vz -0.095578 
+set atom 181 diameter 4.219962 density ${rhos} vx -3.001659 vy -1.765986 vz -0.620534 
+set atom 182 diameter 2.830671 density ${rhos} vx 1.073399 vy -3.891298 vz 2.726556 
+set atom 183 diameter 3.226086 density ${rhos} vx 0.430450 vy -1.247899 vz 2.440666 
+set atom 184 diameter 2.970476 density ${rhos} vx -3.376753 vy -1.700960 vz -0.570959 
+set atom 185 diameter 3.836513 density ${rhos} vx -4.943469 vy -1.578948 vz -4.469999 
+set atom 186 diameter 2.303901 density ${rhos} vx 2.714851 vy 3.171189 vz -4.121782 
+set atom 187 diameter 2.871082 density ${rhos} vx 2.647876 vy 0.316853 vz 2.979860 
+set atom 188 diameter 3.009475 density ${rhos} vx -0.789306 vy 0.211220 vz 1.555824 
+set atom 189 diameter 4.263767 density ${rhos} vx -4.431868 vy 2.743097 vz -4.676644 
+set atom 190 diameter 3.128588 density ${rhos} vx 0.857470 vy -3.797372 vz 0.570668 
+set atom 191 diameter 2.138414 density ${rhos} vx -3.258448 vy 1.254502 vz 2.198016 
+set atom 192 diameter 3.198328 density ${rhos} vx 2.286107 vy -1.533513 vz -3.895920 
+set atom 193 diameter 2.926609 density ${rhos} vx 0.342910 vy -1.653806 vz -2.833526 
+set atom 194 diameter 2.717801 density ${rhos} vx -2.469357 vy 0.746166 vz 3.110202 
+set atom 195 diameter 3.010731 density ${rhos} vx 4.170567 vy 3.639376 vz -3.613381 
+set atom 196 diameter 4.206131 density ${rhos} vx 2.581945 vy -3.014369 vz 3.818992 
+set atom 197 diameter 2.509154 density ${rhos} vx 3.870307 vy 1.724510 vz 4.235561 
+set atom 198 diameter 3.352431 density ${rhos} vx -4.312018 vy 4.018314 vz -4.872444 
+set atom 199 diameter 3.453179 density ${rhos} vx -3.164718 vy -3.008428 vz -1.228407 
+set atom 200 diameter 2.698079 density ${rhos} vx 2.370727 vy -2.017159 vz -3.321883 
+set atom 201 diameter 4.509790 density ${rhos} vx 1.967149 vy -0.034797 vz 0.402228 
+set atom 202 diameter 3.821977 density ${rhos} vx 2.769929 vy 3.899042 vz -3.983376 
+set atom 203 diameter 2.709114 density ${rhos} vx 0.019034 vy 0.014146 vz -4.607323 
+set atom 204 diameter 3.920597 density ${rhos} vx -0.745032 vy -2.230048 vz 4.332291 
+set atom 205 diameter 3.241404 density ${rhos} vx 1.112371 vy 0.339582 vz 4.715919 
+set atom 206 diameter 3.466977 density ${rhos} vx 3.557719 vy 0.742496 vz -1.390720 
+set atom 207 diameter 3.201441 density ${rhos} vx 1.707971 vy -0.871956 vz 1.442054 
+set atom 208 diameter 2.899246 density ${rhos} vx 0.235920 vy -4.852363 vz -4.320527 
+set atom 209 diameter 3.243592 density ${rhos} vx -2.011846 vy 2.027648 vz -2.920880 
+set atom 210 diameter 2.967135 density ${rhos} vx 2.039691 vy 0.067472 vz -4.603962 
+set atom 211 diameter 3.309042 density ${rhos} vx -1.183891 vy -1.187339 vz -0.306407 
+set atom 212 diameter 3.221682 density ${rhos} vx 0.676850 vy -4.350685 vz -3.499033 
+set atom 213 diameter 3.542437 density ${rhos} vx 3.878610 vy -1.414200 vz 4.913069 
+set atom 214 diameter 1.888181 density ${rhos} vx 3.429493 vy -2.657488 vz -0.729377 
+set atom 215 diameter 3.688783 density ${rhos} vx 3.987986 vy -2.964959 vz 4.553721 
+set atom 216 diameter 3.981156 density ${rhos} vx 4.390031 vy 3.137796 vz 2.242470 
+set atom 217 diameter 1.954008 density ${rhos} vx 3.154352 vy -1.065654 vz 0.808917 
+set atom 218 diameter 3.731837 density ${rhos} vx -4.986422 vy -4.464248 vz 0.402579 
+set atom 219 diameter 2.024899 density ${rhos} vx -4.969093 vy -1.249484 vz 2.054412 
+set atom 220 diameter 2.548128 density ${rhos} vx -4.125312 vy 2.749942 vz -4.949711 
+set atom 221 diameter 3.523720 density ${rhos} vx -2.392726 vy -3.347024 vz 2.825158 
+set atom 222 diameter 3.176035 density ${rhos} vx -4.772013 vy 4.122189 vz 4.268596 
+set atom 223 diameter 3.310241 density ${rhos} vx -0.759152 vy -1.807942 vz -4.917043 
+set atom 224 diameter 3.992032 density ${rhos} vx -1.589350 vy -1.702203 vz 3.246283 
+set atom 225 diameter 3.686321 density ${rhos} vx 0.413539 vy -2.957643 vz 2.673359 
+set atom 226 diameter 3.208348 density ${rhos} vx 4.261691 vy 2.672147 vz 4.971369 
+set atom 227 diameter 2.275337 density ${rhos} vx -2.015006 vy -4.300269 vz -2.723469 
+set atom 228 diameter 3.249150 density ${rhos} vx -1.619152 vy 4.500339 vz 4.195422 
+set atom 229 diameter 2.472174 density ${rhos} vx 3.594801 vy -3.417902 vz 1.419993 
+set atom 230 diameter 2.838022 density ${rhos} vx -1.595217 vy -2.135541 vz -3.946798 
+set atom 231 diameter 2.724382 density ${rhos} vx -3.618796 vy 1.871291 vz -2.318391 
+set atom 232 diameter 3.364621 density ${rhos} vx 0.077990 vy -3.588502 vz 2.638438 
+set atom 233 diameter 3.872933 density ${rhos} vx 3.566565 vy 0.120867 vz 3.055102 
+set atom 234 diameter 4.149031 density ${rhos} vx -1.156864 vy 2.213269 vz -3.957470 
+set atom 235 diameter 4.203068 density ${rhos} vx 1.956909 vy 4.288451 vz -0.302412 
+set atom 236 diameter 3.890986 density ${rhos} vx 1.279042 vy 2.321039 vz -2.809381 
+set atom 237 diameter 3.599994 density ${rhos} vx -0.496118 vy 2.498480 vz 4.227079 
+set atom 238 diameter 4.045765 density ${rhos} vx -0.263821 vy -0.926804 vz -1.796774 
+set atom 239 diameter 2.876817 density ${rhos} vx 4.497064 vy -2.605083 vz 3.575438 
+set atom 240 diameter 2.419783 density ${rhos} vx -4.165024 vy 0.208505 vz -2.401533 
+set atom 241 diameter 3.172655 density ${rhos} vx -2.201711 vy -2.809226 vz 3.780629 
+set atom 242 diameter 3.709068 density ${rhos} vx -0.529927 vy 3.423879 vz -3.117324 
+set atom 243 diameter 2.716286 density ${rhos} vx 0.875713 vy 1.629329 vz 2.591938 
+set atom 244 diameter 2.393821 density ${rhos} vx 3.776341 vy 3.162353 vz -4.683107 
+set atom 245 diameter 2.645096 density ${rhos} vx -0.308995 vy 2.938776 vz 1.423392 
+set atom 246 diameter 2.920742 density ${rhos} vx -0.625815 vy -0.308948 vz 0.668709 
+set atom 247 diameter 3.195964 density ${rhos} vx 2.461849 vy -1.904750 vz -1.235905 
+set atom 248 diameter 3.595277 density ${rhos} vx -0.320895 vy 1.875792 vz -2.874516 
+set atom 249 diameter 3.044280 density ${rhos} vx 3.608274 vy 4.868522 vz 2.921568 
+set atom 250 diameter 2.641046 density ${rhos} vx -0.334880 vy 2.699339 vz -3.545565 
+set atom 251 diameter 2.499452 density ${rhos} vx -0.018955 vy 3.295808 vz -0.108575 
+set atom 252 diameter 2.522927 density ${rhos} vx -0.125693 vy 2.060848 vz -4.871543 
+set atom 253 diameter 3.431642 density ${rhos} vx -2.705312 vy 0.953364 vz -3.133880 
+set atom 254 diameter 4.086438 density ${rhos} vx -4.144478 vy 2.528741 vz -0.147695 
+set atom 255 diameter 3.899533 density ${rhos} vx -4.326167 vy -0.032778 vz 3.382261 
+set atom 256 diameter 2.794340 density ${rhos} vx 3.883909 vy 3.651327 vz -3.589430 
+set atom 257 diameter 3.264736 density ${rhos} vx -2.668323 vy -4.319723 vz 2.322170 
+set atom 258 diameter 3.385482 density ${rhos} vx 3.615958 vy 4.685459 vz 1.910669 
+set atom 259 diameter 3.179558 density ${rhos} vx 2.117351 vy -4.012437 vz -4.655074 
+set atom 260 diameter 2.910881 density ${rhos} vx 3.728130 vy 0.469771 vz -0.111427 
+set atom 261 diameter 5.536625 density ${rhos} vx 4.380020 vy -0.970301 vz 4.713904 
+set atom 262 diameter 4.230343 density ${rhos} vx -3.603107 vy -3.929598 vz -3.875486 
+set atom 263 diameter 3.193748 density ${rhos} vx -1.060999 vy 2.241662 vz 2.432138 
+set atom 264 diameter 3.551603 density ${rhos} vx 4.805628 vy 1.136823 vz 1.385414 
+set atom 265 diameter 3.256154 density ${rhos} vx 1.447940 vy 2.829682 vz 0.941829 
+set atom 266 diameter 2.792385 density ${rhos} vx 3.964098 vy 0.666206 vz -0.013775 
+set atom 267 diameter 2.913748 density ${rhos} vx -0.177696 vy 3.113192 vz 0.678527 
+set atom 268 diameter 4.759511 density ${rhos} vx -4.859069 vy 0.767759 vz -0.734957 
+set atom 269 diameter 4.409689 density ${rhos} vx 1.228803 vy 4.440292 vz -4.237606 
+set atom 270 diameter 4.340150 density ${rhos} vx -2.689046 vy 3.714521 vz -2.094133 
+set atom 271 diameter 2.800669 density ${rhos} vx 0.274340 vy 0.076022 vz 0.613350 
+set atom 272 diameter 2.746855 density ${rhos} vx 2.249920 vy 2.888232 vz 1.333335 
+set atom 273 diameter 4.260054 density ${rhos} vx 1.074158 vy -0.269694 vz 4.307759 
+set atom 274 diameter 2.554884 density ${rhos} vx 0.883664 vy 3.288017 vz 4.777692 
+set atom 275 diameter 3.039862 density ${rhos} vx -0.665652 vy -1.775184 vz -4.064035 
+set atom 276 diameter 3.941280 density ${rhos} vx -2.558271 vy 4.761465 vz 1.617349 
+set atom 277 diameter 3.446246 density ${rhos} vx -0.710396 vy -2.217890 vz 1.027729 
+set atom 278 diameter 4.071631 density ${rhos} vx -4.898225 vy -4.271692 vz -0.261821 
+set atom 279 diameter 2.911381 density ${rhos} vx 1.088214 vy 2.512236 vz -1.437437 
+set atom 280 diameter 4.434312 density ${rhos} vx 4.579752 vy 3.311886 vz -0.244216 
+set atom 281 diameter 3.717051 density ${rhos} vx -4.045535 vy 4.223381 vz 1.710220 
+set atom 282 diameter 3.211973 density ${rhos} vx -4.644094 vy -1.729757 vz 4.596452 
+set atom 283 diameter 4.168181 density ${rhos} vx 3.862351 vy 3.040693 vz -4.109157 
+set atom 284 diameter 3.624460 density ${rhos} vx -2.530586 vy 0.382503 vz 2.977425 
+set atom 285 diameter 3.003502 density ${rhos} vx -4.910849 vy -0.367051 vz 0.907757 
+set atom 286 diameter 3.286225 density ${rhos} vx 3.149203 vy 3.207503 vz 4.121968 
+set atom 287 diameter 4.027085 density ${rhos} vx -3.595006 vy 4.519065 vz -3.988707 
+set atom 288 diameter 2.310525 density ${rhos} vx 3.798664 vy -4.237271 vz -2.067054 
+set atom 289 diameter 2.730483 density ${rhos} vx -4.046232 vy 2.086711 vz -4.484118 
+set atom 290 diameter 2.850158 density ${rhos} vx -1.474399 vy -2.650736 vz 0.041282 
+set atom 291 diameter 1.972966 density ${rhos} vx 0.934206 vy -1.011044 vz 2.683758 
+set atom 292 diameter 3.876361 density ${rhos} vx 0.851816 vy -2.318756 vz -2.170146 
+set atom 293 diameter 4.101038 density ${rhos} vx 1.676818 vy 3.325133 vz -2.746398 
+set atom 294 diameter 3.155952 density ${rhos} vx 1.480271 vy 4.953738 vz -1.687104 
+set atom 295 diameter 2.822341 density ${rhos} vx -0.666309 vy 1.497510 vz -0.467486 
+set atom 296 diameter 4.723065 density ${rhos} vx -3.602412 vy 2.039528 vz 2.373846 
+set atom 297 diameter 3.658070 density ${rhos} vx 2.519295 vy 4.323032 vz 0.098857 
+set atom 298 diameter 5.083199 density ${rhos} vx -2.582132 vy 1.876525 vz -1.174858 
+set atom 299 diameter 3.427326 density ${rhos} vx 1.504593 vy 0.683539 vz 4.054832 
+set atom 300 diameter 3.024461 density ${rhos} vx 3.573741 vy -1.191525 vz 4.652577 
+set atom 301 diameter 3.855819 density ${rhos} vx -4.156295 vy 1.345795 vz 1.282674 
+set atom 302 diameter 3.150897 density ${rhos} vx 4.720892 vy -1.367714 vz -3.679688 
+set atom 303 diameter 4.371981 density ${rhos} vx -4.685401 vy -0.923806 vz 1.183018 
+set atom 304 diameter 2.731630 density ${rhos} vx 3.354046 vy -1.313003 vz -1.169799 
+set atom 305 diameter 3.286786 density ${rhos} vx 3.357133 vy -0.316012 vz 4.911937 
+set atom 306 diameter 3.411284 density ${rhos} vx -4.501425 vy 0.034138 vz -2.131727 
+set atom 307 diameter 3.700439 density ${rhos} vx 0.458862 vy 4.105358 vz 2.061914 
+set atom 308 diameter 3.279182 density ${rhos} vx 4.431698 vy -2.935690 vz 0.352059 
+set atom 309 diameter 2.512544 density ${rhos} vx -1.785269 vy -1.613963 vz -3.067890 
+set atom 310 diameter 3.026182 density ${rhos} vx 3.064668 vy 0.741256 vz 1.894351 
+set atom 311 diameter 3.229759 density ${rhos} vx 1.013988 vy -0.130676 vz -4.495450 
+set atom 312 diameter 4.674572 density ${rhos} vx 2.896205 vy -2.377810 vz -3.155659 
+set atom 313 diameter 2.568200 density ${rhos} vx 2.991850 vy 0.795935 vz -4.543417 
+set atom 314 diameter 2.703435 density ${rhos} vx -4.504352 vy 3.783277 vz 3.850415 
+set atom 315 diameter 4.186079 density ${rhos} vx -2.168014 vy -4.390498 vz 3.397944 
+set atom 316 diameter 3.878627 density ${rhos} vx 1.534568 vy -0.591235 vz -3.818448 
+set atom 317 diameter 2.780447 density ${rhos} vx -0.103447 vy -4.157420 vz -0.895851 
+set atom 318 diameter 2.796107 density ${rhos} vx 4.728522 vy 0.632376 vz -3.797714 
+set atom 319 diameter 3.169961 density ${rhos} vx 2.484899 vy 0.393106 vz 0.720925 
+set atom 320 diameter 3.407635 density ${rhos} vx 0.678411 vy 2.680579 vz 4.493901 
+set atom 321 diameter 3.112845 density ${rhos} vx -2.010358 vy -2.669097 vz -2.436148 
+set atom 322 diameter 2.806497 density ${rhos} vx -2.438902 vy 0.873617 vz 4.898654 
+set atom 323 diameter 3.056972 density ${rhos} vx 3.865638 vy -0.410261 vz -1.501920 
+set atom 324 diameter 4.164827 density ${rhos} vx -0.531991 vy 3.609815 vz -2.914776 
+set atom 325 diameter 4.405935 density ${rhos} vx 3.159873 vy 1.608361 vz 1.658272 
+set atom 326 diameter 3.394101 density ${rhos} vx -4.016627 vy -1.461208 vz 4.733447 
+set atom 327 diameter 2.978526 density ${rhos} vx 3.595935 vy -1.528137 vz 1.226998 
+set atom 328 diameter 2.812271 density ${rhos} vx -4.723710 vy -2.462819 vz -4.364621 
+set atom 329 diameter 2.983068 density ${rhos} vx 3.991564 vy 4.525281 vz -1.264905 
+set atom 330 diameter 3.483983 density ${rhos} vx 3.999355 vy -2.017990 vz -3.337485 
+set atom 331 diameter 4.455684 density ${rhos} vx 0.241060 vy -3.415939 vz -2.687219 
+set atom 332 diameter 3.866835 density ${rhos} vx -3.798005 vy -1.387029 vz -4.477914 
+set atom 333 diameter 4.094654 density ${rhos} vx -3.222059 vy 2.416291 vz 4.017563 
+set atom 334 diameter 3.522987 density ${rhos} vx 2.061076 vy 2.059000 vz 2.932917 
+set atom 335 diameter 3.016775 density ${rhos} vx 3.313598 vy 2.008922 vz -1.269857 
+set atom 336 diameter 2.930009 density ${rhos} vx -4.651662 vy -4.937742 vz 3.320547 
+set atom 337 diameter 5.757823 density ${rhos} vx 2.578387 vy -1.256544 vz 2.538346 
+set atom 338 diameter 3.206792 density ${rhos} vx 4.571122 vy 4.014956 vz 1.218631 
+set atom 339 diameter 2.398637 density ${rhos} vx -1.571295 vy -1.816552 vz -1.059068 
+set atom 340 diameter 4.822327 density ${rhos} vx 1.382437 vy 0.970829 vz -1.407220 
+set atom 341 diameter 3.533104 density ${rhos} vx -1.569942 vy -2.022048 vz -4.111475 
+set atom 342 diameter 3.173539 density ${rhos} vx -2.835286 vy -3.749856 vz -1.583230 
+set atom 343 diameter 2.299661 density ${rhos} vx 2.862006 vy -1.116443 vz 0.486706 
+set atom 344 diameter 2.516726 density ${rhos} vx 2.230900 vy 3.176877 vz -0.394525 
+set atom 345 diameter 2.175498 density ${rhos} vx -2.211611 vy 4.811757 vz 1.454524 
+set atom 346 diameter 2.603325 density ${rhos} vx 0.824314 vy 3.619898 vz 0.135208 
+set atom 347 diameter 3.841866 density ${rhos} vx -0.789942 vy -4.161791 vz 3.144265 
+set atom 348 diameter 3.436824 density ${rhos} vx -4.079313 vy -1.622880 vz -4.028168 
+set atom 349 diameter 3.192071 density ${rhos} vx -4.759727 vy -2.638708 vz -0.362864 
+set atom 350 diameter 3.143747 density ${rhos} vx -0.088542 vy -1.821946 vz 0.898175 
+set atom 351 diameter 2.378138 density ${rhos} vx -2.217330 vy 4.844484 vz -3.128279 
+set atom 352 diameter 3.565429 density ${rhos} vx -1.602428 vy 0.482509 vz 1.113301 
+set atom 353 diameter 3.103576 density ${rhos} vx -2.126504 vy 2.492513 vz -4.480580 
+set atom 354 diameter 3.107235 density ${rhos} vx -3.290968 vy 3.418517 vz 0.757269 
+set atom 355 diameter 2.728947 density ${rhos} vx -1.007367 vy -3.331103 vz 3.423447 
+set atom 356 diameter 3.000426 density ${rhos} vx 1.976496 vy 4.030976 vz -0.002740 
+set atom 357 diameter 2.322045 density ${rhos} vx -2.963236 vy -3.948759 vz -0.609751 
+set atom 358 diameter 2.503845 density ${rhos} vx 1.663265 vy 2.450931 vz -3.509429 
+set atom 359 diameter 3.643892 density ${rhos} vx -0.569339 vy 2.293719 vz -4.717205 
+set atom 360 diameter 2.720774 density ${rhos} vx -0.667047 vy 2.174696 vz 2.566698 
+set atom 361 diameter 2.882107 density ${rhos} vx -3.247606 vy -3.665682 vz 2.961062 
+set atom 362 diameter 3.634074 density ${rhos} vx -3.067977 vy -0.542110 vz -2.064444 
+set atom 363 diameter 4.915681 density ${rhos} vx 1.164213 vy 0.087872 vz -3.847933 
+set atom 364 diameter 3.662813 density ${rhos} vx -2.309894 vy 0.304903 vz -1.249084 
+set atom 365 diameter 2.332622 density ${rhos} vx 0.596779 vy 3.597170 vz 3.288937 
+set atom 366 diameter 2.817984 density ${rhos} vx 4.447840 vy 1.777249 vz 3.417766 
+set atom 367 diameter 3.311833 density ${rhos} vx 2.144716 vy 3.058383 vz 1.652385 
+set atom 368 diameter 4.442234 density ${rhos} vx 1.792197 vy 0.312429 vz 4.601400 
+set atom 369 diameter 2.403918 density ${rhos} vx 4.593806 vy 4.558958 vz 4.431179 
+set atom 370 diameter 4.874931 density ${rhos} vx 2.753343 vy -4.333231 vz -3.873005 
+set atom 371 diameter 3.230587 density ${rhos} vx 1.077270 vy 0.415180 vz 1.482874 
+set atom 372 diameter 3.053190 density ${rhos} vx 4.480024 vy -2.183397 vz -0.191959 
+set atom 373 diameter 3.620026 density ${rhos} vx -4.403584 vy -0.190997 vz -4.334793 
+set atom 374 diameter 3.368451 density ${rhos} vx -2.312877 vy 1.848638 vz 3.977712 
+set atom 375 diameter 3.869424 density ${rhos} vx 4.866800 vy -2.917416 vz -0.027699 
+set atom 376 diameter 3.400542 density ${rhos} vx 2.722067 vy 1.081610 vz 2.713034 
+set atom 377 diameter 3.454218 density ${rhos} vx -0.246457 vy -1.738238 vz -4.396378 
+set atom 378 diameter 3.034929 density ${rhos} vx 1.808996 vy 3.808472 vz -2.375425 
+set atom 379 diameter 2.973289 density ${rhos} vx -0.830652 vy -3.666054 vz 1.510694 
+set atom 380 diameter 3.525720 density ${rhos} vx -1.198508 vy -3.975922 vz -3.663961 
+set atom 381 diameter 4.391476 density ${rhos} vx -2.867296 vy 4.591169 vz 1.385457 
+set atom 382 diameter 4.584806 density ${rhos} vx -1.170620 vy -3.470980 vz -1.150569 
+set atom 383 diameter 3.296212 density ${rhos} vx -4.703322 vy -3.474619 vz 2.656981 
+set atom 384 diameter 3.796011 density ${rhos} vx -0.276789 vy -3.444474 vz 1.529157 
+set atom 385 diameter 4.773416 density ${rhos} vx -1.666273 vy -4.104306 vz -1.185109 
+set atom 386 diameter 2.989801 density ${rhos} vx 4.758448 vy -0.455754 vz -1.999814 
+set atom 387 diameter 2.701686 density ${rhos} vx 0.554435 vy 1.688957 vz -1.598604 
+set atom 388 diameter 3.045876 density ${rhos} vx 3.463036 vy 3.313017 vz 4.189265 
+set atom 389 diameter 2.481294 density ${rhos} vx -0.919365 vy 2.902351 vz -0.437332 
+set atom 390 diameter 2.965959 density ${rhos} vx -0.379818 vy 2.127109 vz -0.575030 
+set atom 391 diameter 2.649764 density ${rhos} vx 3.263067 vy -0.274025 vz -0.458142 
+set atom 392 diameter 3.853389 density ${rhos} vx 4.912032 vy 2.085882 vz 4.452820 
+set atom 393 diameter 6.155600 density ${rhos} vx 0.239476 vy 4.580595 vz -2.808810 
+set atom 394 diameter 3.098524 density ${rhos} vx 4.254369 vy 0.057756 vz 3.824028 
+set atom 395 diameter 2.706548 density ${rhos} vx 2.390219 vy -1.949469 vz -4.801246 
+set atom 396 diameter 3.424811 density ${rhos} vx 0.674301 vy 2.898112 vz -1.582351 
+set atom 397 diameter 4.544526 density ${rhos} vx 4.687777 vy -2.636130 vz 2.660274 
+set atom 398 diameter 3.687553 density ${rhos} vx 3.244994 vy -2.656972 vz -1.571963 
+set atom 399 diameter 3.499165 density ${rhos} vx 4.596093 vy -0.353006 vz 1.188064 
+set atom 400 diameter 2.987661 density ${rhos} vx 1.463461 vy 1.193868 vz -0.469788 
+set atom 401 diameter 2.443830 density ${rhos} vx -1.204265 vy 1.153294 vz -4.898374 
+set atom 402 diameter 3.655930 density ${rhos} vx -0.234253 vy -3.773761 vz 0.990812 
+set atom 403 diameter 2.993312 density ${rhos} vx 4.118898 vy -3.762065 vz 1.015683 
+set atom 404 diameter 3.116745 density ${rhos} vx -4.851461 vy -2.155410 vz 1.494175 
+set atom 405 diameter 3.827663 density ${rhos} vx -3.433062 vy 2.357328 vz -1.572794 
+set atom 406 diameter 2.980019 density ${rhos} vx -0.284321 vy -0.886919 vz -0.067007 
+set atom 407 diameter 2.725910 density ${rhos} vx 0.429917 vy 3.289819 vz 2.017739 
+set atom 408 diameter 3.012289 density ${rhos} vx -4.403090 vy 4.351141 vz 3.878026 
+set atom 409 diameter 2.736973 density ${rhos} vx 1.580303 vy -1.009333 vz -4.449422 
+set atom 410 diameter 2.683600 density ${rhos} vx 3.896353 vy -4.477886 vz -4.016380 
+set atom 411 diameter 4.886398 density ${rhos} vx -3.903674 vy 0.711861 vz 1.497828 
+set atom 412 diameter 2.357673 density ${rhos} vx -0.622269 vy 2.476700 vz 2.640709 
+set atom 413 diameter 3.199528 density ${rhos} vx -2.197699 vy -1.797564 vz 4.879589 
+set atom 414 diameter 2.934120 density ${rhos} vx 4.852463 vy -0.070657 vz -3.746752 
+set atom 415 diameter 2.620587 density ${rhos} vx 1.087587 vy -2.783472 vz -1.355228 
+set atom 416 diameter 3.952153 density ${rhos} vx -2.462508 vy 4.392737 vz 1.762301 
+set atom 417 diameter 2.907406 density ${rhos} vx -3.673853 vy -0.176947 vz -1.242418 
+set atom 418 diameter 2.388166 density ${rhos} vx 0.450049 vy 0.399961 vz 3.634585 
+set atom 419 diameter 3.486746 density ${rhos} vx 3.278039 vy -2.789429 vz -2.080232 
+set atom 420 diameter 3.291150 density ${rhos} vx 3.370063 vy -4.040550 vz -3.665250 
+set atom 421 diameter 3.736643 density ${rhos} vx 3.333486 vy -4.398346 vz 1.726505 
+set atom 422 diameter 2.540717 density ${rhos} vx -2.962846 vy 3.195089 vz -2.974150 
+set atom 423 diameter 4.383760 density ${rhos} vx 0.444177 vy 2.714783 vz 3.685152 
+set atom 424 diameter 2.916807 density ${rhos} vx 3.749427 vy -3.043043 vz 2.511573 
+set atom 425 diameter 3.670513 density ${rhos} vx -3.789999 vy 3.951182 vz -0.806204 
+set atom 426 diameter 4.225948 density ${rhos} vx 3.563508 vy 1.843001 vz -4.997689 
+set atom 427 diameter 3.694922 density ${rhos} vx 3.997760 vy 1.568465 vz -3.505363 
+set atom 428 diameter 4.848885 density ${rhos} vx -2.821349 vy 4.903812 vz -2.261657 
+set atom 429 diameter 3.707567 density ${rhos} vx -4.230209 vy -4.663082 vz 3.724250 
+set atom 430 diameter 3.390858 density ${rhos} vx -0.257848 vy -0.757467 vz 1.012511 
+set atom 431 diameter 3.773222 density ${rhos} vx 3.350275 vy -0.100163 vz -1.788115 
+set atom 432 diameter 3.942775 density ${rhos} vx -0.306065 vy 0.835045 vz -2.157069 
+set atom 433 diameter 3.573557 density ${rhos} vx -0.862301 vy -4.167303 vz -0.646842 
+set atom 434 diameter 2.907449 density ${rhos} vx 0.027463 vy 1.601546 vz 4.037591 
+set atom 435 diameter 3.096322 density ${rhos} vx -3.745600 vy -4.476948 vz 4.251056 
+set atom 436 diameter 3.047123 density ${rhos} vx -3.677147 vy 0.568305 vz 0.052925 
+set atom 437 diameter 3.344197 density ${rhos} vx 3.704754 vy 2.120252 vz 1.275818 
+set atom 438 diameter 2.053121 density ${rhos} vx 1.029502 vy -0.120894 vz 2.192639 
+set atom 439 diameter 3.560682 density ${rhos} vx -2.346983 vy 1.176006 vz -4.760871 
+set atom 440 diameter 3.222444 density ${rhos} vx 3.648026 vy -2.862224 vz 0.749325 
+set atom 441 diameter 3.006347 density ${rhos} vx -4.418905 vy 1.456587 vz -4.534655 
+set atom 442 diameter 3.803681 density ${rhos} vx -0.422461 vy -1.193577 vz -0.774686 
+set atom 443 diameter 2.832436 density ${rhos} vx 2.222096 vy -3.962872 vz -0.322657 
+set atom 444 diameter 3.650928 density ${rhos} vx -1.610008 vy -1.224885 vz -4.773720 
+set atom 445 diameter 3.160401 density ${rhos} vx -0.987801 vy -2.371392 vz -4.349260 
+set atom 446 diameter 3.033797 density ${rhos} vx 0.269798 vy -2.587144 vz 4.239563 
+set atom 447 diameter 2.771975 density ${rhos} vx 3.942357 vy 1.229241 vz 0.341429 
+set atom 448 diameter 2.498059 density ${rhos} vx 2.783607 vy 0.229278 vz -1.332035 
+set atom 449 diameter 4.609680 density ${rhos} vx -4.306324 vy -0.867623 vz -1.360538 
+set atom 450 diameter 2.541858 density ${rhos} vx -2.212155 vy -2.822080 vz -3.486263 
+set atom 451 diameter 2.463914 density ${rhos} vx -1.206302 vy 3.585536 vz -3.503914 
+set atom 452 diameter 4.234869 density ${rhos} vx 3.646725 vy 3.610083 vz -1.491979 
+set atom 453 diameter 3.579527 density ${rhos} vx -0.800396 vy -2.160610 vz -1.640339 
+set atom 454 diameter 2.922785 density ${rhos} vx -2.601225 vy 1.153928 vz 2.840278 
+set atom 455 diameter 2.545913 density ${rhos} vx 0.976545 vy 2.794895 vz -0.132608 
+set atom 456 diameter 1.685788 density ${rhos} vx -0.205956 vy 4.548473 vz -0.352020 
+set atom 457 diameter 3.257605 density ${rhos} vx 3.985475 vy 4.196032 vz -3.687474 
+set atom 458 diameter 5.256447 density ${rhos} vx 4.347092 vy -1.151843 vz 3.863915 
+set atom 459 diameter 3.884284 density ${rhos} vx 3.178868 vy -3.373570 vz 1.745574 
+set atom 460 diameter 4.181932 density ${rhos} vx 2.089090 vy 2.967514 vz 3.351596 
+set atom 461 diameter 4.499403 density ${rhos} vx 2.432206 vy -3.861828 vz 1.564879 
+set atom 462 diameter 2.165918 density ${rhos} vx 3.997098 vy -3.411757 vz 4.839170 
+set atom 463 diameter 3.814321 density ${rhos} vx -4.347602 vy -1.441719 vz 4.797899 
+set atom 464 diameter 3.826481 density ${rhos} vx -1.640888 vy 3.477586 vz -2.498470 
+set atom 465 diameter 3.643288 density ${rhos} vx -4.956649 vy 0.827812 vz 1.245707 
+set atom 466 diameter 2.947738 density ${rhos} vx 3.280956 vy 0.861777 vz 2.282424 
+set atom 467 diameter 3.666321 density ${rhos} vx 0.074354 vy 4.258380 vz -0.018297 
+set atom 468 diameter 3.910392 density ${rhos} vx -1.338376 vy 0.750783 vz 3.498283 
+set atom 469 diameter 4.568654 density ${rhos} vx -2.733603 vy -4.900226 vz -3.090818 
+set atom 470 diameter 4.517148 density ${rhos} vx 0.348317 vy 3.093773 vz -3.758562 
+set atom 471 diameter 2.095086 density ${rhos} vx -2.105151 vy 1.088084 vz -4.972096 
+set atom 472 diameter 3.811699 density ${rhos} vx -4.316291 vy -0.200863 vz -3.470472 
+set atom 473 diameter 3.751019 density ${rhos} vx -4.150293 vy -2.315598 vz 0.341608 
+set atom 474 diameter 3.728050 density ${rhos} vx -4.316605 vy -2.419036 vz 0.106336 
+set atom 475 diameter 2.882373 density ${rhos} vx -0.901835 vy -0.189905 vz -1.147841 
+set atom 476 diameter 3.185733 density ${rhos} vx -3.766186 vy -2.726585 vz -1.894035 
+set atom 477 diameter 3.127063 density ${rhos} vx -0.569834 vy -4.513977 vz -4.964446 
+set atom 478 diameter 2.964432 density ${rhos} vx 3.989397 vy -3.307582 vz 3.152424 
+set atom 479 diameter 2.405630 density ${rhos} vx -1.463610 vy -2.415537 vz 1.384185 
+set atom 480 diameter 2.413077 density ${rhos} vx -3.798219 vy -3.020899 vz -0.516606 
+set atom 481 diameter 2.867434 density ${rhos} vx 0.691110 vy 1.056931 vz -2.559142 
+set atom 482 diameter 3.960836 density ${rhos} vx 3.750327 vy 3.237036 vz 3.033851 
+set atom 483 diameter 3.476099 density ${rhos} vx -1.514250 vy 3.106150 vz 3.239709 
+set atom 484 diameter 2.932189 density ${rhos} vx -4.580790 vy 3.022370 vz 3.521906 
+set atom 485 diameter 2.721906 density ${rhos} vx -3.576603 vy 2.081134 vz -0.327482 
+set atom 486 diameter 3.740547 density ${rhos} vx -4.234072 vy 3.593779 vz 4.706990 
+set atom 487 diameter 4.255062 density ${rhos} vx 2.405266 vy 2.810845 vz 3.412440 
+set atom 488 diameter 3.346761 density ${rhos} vx -0.434749 vy -2.962031 vz -4.214518 
+set atom 489 diameter 4.107015 density ${rhos} vx 1.682493 vy 4.933432 vz -2.624011 
+set atom 490 diameter 4.809076 density ${rhos} vx 1.992461 vy -4.063755 vz 3.175709 
+set atom 491 diameter 2.969826 density ${rhos} vx 0.713572 vy 1.506185 vz -0.941713 
+set atom 492 diameter 2.919089 density ${rhos} vx 1.286933 vy -2.848235 vz -0.336878 
+set atom 493 diameter 2.632199 density ${rhos} vx 3.777639 vy -2.561269 vz 4.515362 
+set atom 494 diameter 2.829234 density ${rhos} vx 1.623517 vy -1.603122 vz 4.650053 
+set atom 495 diameter 3.105154 density ${rhos} vx 3.754136 vy -3.021377 vz 2.652849 
+set atom 496 diameter 2.815658 density ${rhos} vx -0.324830 vy 0.068334 vz 0.745336 
+set atom 497 diameter 3.089119 density ${rhos} vx -3.586640 vy 4.507580 vz 4.159250 
+set atom 498 diameter 3.014454 density ${rhos} vx -4.318655 vy -1.053928 vz -0.045676 
+set atom 499 diameter 3.049137 density ${rhos} vx 2.142424 vy 0.844648 vz -3.339876 
+set atom 500 diameter 3.692990 density ${rhos} vx -1.920140 vy 1.065372 vz -1.740023 
+set atom 501 diameter 3.965790 density ${rhos} vx 1.711640 vy 2.146429 vz -2.035639 
+set atom 502 diameter 4.658743 density ${rhos} vx 1.524208 vy -0.984636 vz 0.582985 
+set atom 503 diameter 4.244198 density ${rhos} vx 0.310488 vy 3.586910 vz -4.325232 
+set atom 504 diameter 3.720178 density ${rhos} vx 2.151070 vy 4.204850 vz -4.310222 
+set atom 505 diameter 2.852356 density ${rhos} vx 0.048106 vy 2.508389 vz -3.332154 
+set atom 506 diameter 2.261380 density ${rhos} vx -0.120006 vy -2.144083 vz 4.474383 
+set atom 507 diameter 3.293748 density ${rhos} vx -0.021617 vy 2.968158 vz 3.110884 
+set atom 508 diameter 3.816581 density ${rhos} vx 4.359756 vy -3.572342 vz 2.104557 
+set atom 509 diameter 2.985651 density ${rhos} vx -1.107183 vy 0.045502 vz 4.702456 
+set atom 510 diameter 3.234056 density ${rhos} vx -3.828548 vy 1.106880 vz 4.984268 
+set atom 511 diameter 4.749346 density ${rhos} vx -2.595764 vy 2.037967 vz 4.874548 
+set atom 512 diameter 4.913723 density ${rhos} vx 1.849085 vy -1.166601 vz -3.499134 
+set atom 513 diameter 3.484278 density ${rhos} vx 3.392536 vy 2.286834 vz 4.584788 
+set atom 514 diameter 5.100287 density ${rhos} vx 4.701446 vy 3.872847 vz 0.304590 
+set atom 515 diameter 2.741919 density ${rhos} vx -2.848304 vy -4.441517 vz -4.259135 
+set atom 516 diameter 2.977219 density ${rhos} vx 2.603433 vy -3.617837 vz -1.881791 
+set atom 517 diameter 3.374676 density ${rhos} vx 0.841028 vy 3.630650 vz 3.951708 
+set atom 518 diameter 3.994859 density ${rhos} vx -0.970484 vy -0.782535 vz 3.347683 
+set atom 519 diameter 4.210192 density ${rhos} vx 0.100403 vy -0.886858 vz -4.976512 
+set atom 520 diameter 3.819466 density ${rhos} vx -0.043558 vy 4.591413 vz 1.402098 
+set atom 521 diameter 4.333416 density ${rhos} vx 1.513683 vy 2.502453 vz 3.031826 
+set atom 522 diameter 3.239721 density ${rhos} vx 2.437061 vy 4.809971 vz -2.548692 
+set atom 523 diameter 3.502161 density ${rhos} vx -1.980465 vy -2.664842 vz -4.358778 
+set atom 524 diameter 3.446644 density ${rhos} vx -4.103881 vy -4.037732 vz -2.368517 
+set atom 525 diameter 4.111343 density ${rhos} vx 3.259655 vy -1.154178 vz -3.972796 
+set atom 526 diameter 4.532961 density ${rhos} vx -1.104130 vy 0.002726 vz -0.162810 
+set atom 527 diameter 4.715699 density ${rhos} vx 2.753049 vy 0.702559 vz -0.811155 
+set atom 528 diameter 5.152006 density ${rhos} vx -3.206309 vy 4.766316 vz -1.187110 
+set atom 529 diameter 3.074026 density ${rhos} vx -3.906388 vy -0.071448 vz 3.867651 
+set atom 530 diameter 3.378325 density ${rhos} vx 4.051583 vy -0.991171 vz -0.794425 
+set atom 531 diameter 2.950458 density ${rhos} vx 3.763510 vy 4.949903 vz -2.161521 
+set atom 532 diameter 3.120732 density ${rhos} vx 4.997926 vy -2.390020 vz -4.518189 
+set atom 533 diameter 3.081643 density ${rhos} vx 3.642547 vy 1.653247 vz -2.808340 
+set atom 534 diameter 2.755041 density ${rhos} vx -4.631225 vy 4.642566 vz -2.608240 
+set atom 535 diameter 3.496351 density ${rhos} vx 0.446824 vy 1.711510 vz -4.707415 
+set atom 536 diameter 3.158891 density ${rhos} vx 4.976162 vy -2.008251 vz 2.023109 
+set atom 537 diameter 3.224728 density ${rhos} vx 0.110082 vy 0.311265 vz -4.923644 
+set atom 538 diameter 4.013221 density ${rhos} vx 3.735122 vy -4.985368 vz 1.109207 
+set atom 539 diameter 3.680957 density ${rhos} vx -4.297785 vy 3.837888 vz -0.919105 
+set atom 540 diameter 2.068560 density ${rhos} vx 4.875387 vy -0.956161 vz -2.510533 
+set atom 541 diameter 4.129808 density ${rhos} vx 4.227134 vy -1.987944 vz 1.524597 
+set atom 542 diameter 2.432094 density ${rhos} vx 0.642609 vy 4.505816 vz -1.797229 
+set atom 543 diameter 2.250136 density ${rhos} vx -0.685379 vy -0.393518 vz -3.963279 
+set atom 544 diameter 3.179771 density ${rhos} vx -1.621554 vy -2.123525 vz 0.355649 
+set atom 545 diameter 3.269616 density ${rhos} vx 2.207234 vy -4.153734 vz -3.351298 
+set atom 546 diameter 2.267739 density ${rhos} vx -4.863444 vy 0.821813 vz 3.834387 
+set atom 547 diameter 3.261554 density ${rhos} vx -1.259398 vy -3.469313 vz 1.664570 
+set atom 548 diameter 2.657160 density ${rhos} vx 4.226852 vy -4.269057 vz 3.477425 
+set atom 549 diameter 3.469999 density ${rhos} vx 0.464796 vy 0.805648 vz 2.626611 
+set atom 550 diameter 2.650926 density ${rhos} vx -0.261131 vy -2.129852 vz 3.070138 
+set atom 551 diameter 3.478040 density ${rhos} vx -0.034627 vy -1.380799 vz 1.329524 
+set atom 552 diameter 3.611468 density ${rhos} vx -1.910289 vy 2.248247 vz 2.104273 
+set atom 553 diameter 4.385048 density ${rhos} vx 4.508376 vy 3.583117 vz 1.886635 
+set atom 554 diameter 3.165597 density ${rhos} vx 4.819933 vy -1.520843 vz -1.790521 
+set atom 555 diameter 3.381797 density ${rhos} vx 0.135631 vy 4.617456 vz 0.316485 
+set atom 556 diameter 2.491670 density ${rhos} vx 4.925898 vy 4.535691 vz 3.731940 
+set atom 557 diameter 4.059886 density ${rhos} vx -0.441563 vy -2.939626 vz -4.454603 
+set atom 558 diameter 2.847264 density ${rhos} vx -0.739591 vy 2.682449 vz 0.004008 
+set atom 559 diameter 3.730051 density ${rhos} vx -2.867852 vy 1.155319 vz -0.672368 
+set atom 560 diameter 2.875152 density ${rhos} vx -3.067505 vy 4.189225 vz 4.042825 
+set atom 561 diameter 2.782797 density ${rhos} vx 3.327542 vy 1.025373 vz 1.301834 
+set atom 562 diameter 4.330757 density ${rhos} vx 2.266371 vy 2.021382 vz 4.830362 
+set atom 563 diameter 3.983625 density ${rhos} vx 0.297457 vy 2.436750 vz 0.852003 
+set atom 564 diameter 2.477116 density ${rhos} vx 3.290807 vy -1.148977 vz 3.406365 
+set atom 565 diameter 2.373130 density ${rhos} vx 0.118744 vy -2.484962 vz -0.311862 
+set atom 566 diameter 3.258719 density ${rhos} vx 0.519618 vy -4.632403 vz 0.452223 
+set atom 567 diameter 2.346249 density ${rhos} vx -2.867151 vy -0.278771 vz -3.208959 
+set atom 568 diameter 2.896218 density ${rhos} vx 0.878206 vy 1.450723 vz 1.344617 
+set atom 569 diameter 3.864712 density ${rhos} vx -3.572368 vy -2.210301 vz 4.629588 
+set atom 570 diameter 3.282683 density ${rhos} vx -4.477765 vy 0.178609 vz 0.340138 
+set atom 571 diameter 3.320932 density ${rhos} vx 1.833079 vy -2.543334 vz -0.203857 
+set atom 572 diameter 2.123031 density ${rhos} vx 1.085595 vy -2.024918 vz 2.936661 
+set atom 573 diameter 3.784703 density ${rhos} vx -2.803441 vy 1.504741 vz -4.072863 
+set atom 574 diameter 3.228266 density ${rhos} vx -0.937201 vy 3.913933 vz 3.807995 
+set atom 575 diameter 2.435628 density ${rhos} vx 1.299079 vy 3.611065 vz -4.961265 
+set atom 576 diameter 4.554331 density ${rhos} vx 0.553076 vy -2.900849 vz 0.115291 
+set atom 577 diameter 3.509041 density ${rhos} vx -3.724209 vy -1.009061 vz 1.784636 
+set atom 578 diameter 2.580278 density ${rhos} vx -3.308017 vy 3.878830 vz 0.657476 
+set atom 579 diameter 4.467349 density ${rhos} vx -4.990006 vy -2.434720 vz -0.215414 
+set atom 580 diameter 5.058605 density ${rhos} vx -0.818375 vy 4.668016 vz -1.794872 
+set atom 581 diameter 2.469172 density ${rhos} vx -0.115143 vy 1.191574 vz 1.015798 
+set atom 582 diameter 2.836870 density ${rhos} vx -3.401312 vy -3.346542 vz 4.131527 
+set atom 583 diameter 2.224884 density ${rhos} vx 1.668386 vy 3.261990 vz 1.825178 
+set atom 584 diameter 3.152680 density ${rhos} vx -4.820796 vy 1.556931 vz 4.467335 
+set atom 585 diameter 2.647346 density ${rhos} vx -3.803246 vy 0.464526 vz -4.009110 
+set atom 586 diameter 2.382815 density ${rhos} vx 4.521253 vy -2.486707 vz 0.110289 
+set atom 587 diameter 3.115085 density ${rhos} vx 4.758540 vy -4.598436 vz -3.898717 
+set atom 588 diameter 4.067582 density ${rhos} vx -4.690855 vy -2.666246 vz 0.452619 
+set atom 589 diameter 3.079053 density ${rhos} vx -0.061182 vy -1.388871 vz 1.887859 
+set atom 590 diameter 2.364032 density ${rhos} vx 3.627221 vy 1.334550 vz -3.525830 
+set atom 591 diameter 3.336737 density ${rhos} vx -2.571238 vy 4.860981 vz 2.775610 
+set atom 592 diameter 4.684974 density ${rhos} vx 3.342702 vy -2.928434 vz -1.009488 
+set atom 593 diameter 3.905592 density ${rhos} vx 3.135912 vy 2.570839 vz 3.982999 
+set atom 594 diameter 2.981444 density ${rhos} vx 1.289731 vy 3.863281 vz -1.929561 
+set atom 595 diameter 2.040066 density ${rhos} vx -4.977618 vy -0.277701 vz -4.389489 
+set atom 596 diameter 2.535372 density ${rhos} vx -1.202761 vy -3.410865 vz -2.805289 
+set atom 597 diameter 3.194437 density ${rhos} vx 4.044057 vy 3.109208 vz -4.171671 
+set atom 598 diameter 2.686427 density ${rhos} vx 1.803517 vy -0.234922 vz 4.503953 
+set atom 599 diameter 2.294657 density ${rhos} vx -1.211769 vy -3.837125 vz -4.836293 
+set atom 600 diameter 3.410032 density ${rhos} vx 1.319547 vy 3.757206 vz -3.853316 
+set atom 601 diameter 2.114338 density ${rhos} vx -2.567305 vy 1.351864 vz -4.875901 
+set atom 602 diameter 4.640262 density ${rhos} vx 0.714131 vy -4.027187 vz -2.837727 
+set atom 603 diameter 4.036064 density ${rhos} vx 4.817288 vy 4.084395 vz -4.885725 
+set atom 604 diameter 4.080104 density ${rhos} vx 3.496820 vy -4.649840 vz 1.424493 
+set atom 605 diameter 2.891490 density ${rhos} vx -2.165558 vy -4.602503 vz 0.169909 
+set atom 606 diameter 2.956709 density ${rhos} vx 1.824577 vy 4.885679 vz -2.544579 
+set atom 607 diameter 2.843206 density ${rhos} vx -1.418755 vy 1.861816 vz -3.062527 
+set atom 608 diameter 3.937445 density ${rhos} vx 4.869268 vy -1.233108 vz -4.091294 
+set atom 609 diameter 3.395580 density ${rhos} vx -4.160137 vy 0.043243 vz -1.315583 
+set atom 610 diameter 3.028123 density ${rhos} vx -2.496941 vy 2.634957 vz -4.922071 
+set atom 611 diameter 3.450502 density ${rhos} vx 3.113466 vy -4.511252 vz 1.027013 
+set atom 612 diameter 4.273322 density ${rhos} vx -4.155769 vy 2.259277 vz -0.211453 
+set atom 613 diameter 4.133849 density ${rhos} vx 0.312540 vy 2.013281 vz -1.918823 
+set atom 614 diameter 3.537620 density ${rhos} vx 3.006230 vy -0.411092 vz 2.444444 
+set atom 615 diameter 3.791108 density ${rhos} vx 2.388232 vy 0.822948 vz 3.393493 
+set atom 616 diameter 2.944447 density ${rhos} vx -3.583370 vy -1.609102 vz -2.375681 
+set atom 617 diameter 3.653763 density ${rhos} vx -0.621057 vy -3.293746 vz 0.142381 
+set atom 618 diameter 3.673036 density ${rhos} vx -1.496196 vy -1.008066 vz -0.532259 
+set atom 619 diameter 3.768825 density ${rhos} vx -0.215025 vy 4.197772 vz -1.587889 
+set atom 620 diameter 4.051751 density ${rhos} vx 0.874034 vy -2.739546 vz 3.391418 
+set atom 621 diameter 2.155066 density ${rhos} vx -3.541943 vy -1.389933 vz 4.824925 
+set atom 622 diameter 3.340790 density ${rhos} vx 4.053306 vy -1.754380 vz 1.264645 
+set atom 623 diameter 3.793568 density ${rhos} vx 1.401942 vy -4.164179 vz -3.187248 
+set atom 624 diameter 2.887350 density ${rhos} vx -3.370604 vy 0.126655 vz -3.769830 
+set atom 625 diameter 3.703021 density ${rhos} vx 0.659106 vy 3.328648 vz 0.799687 
+set atom 626 diameter 3.359362 density ${rhos} vx 4.316161 vy 4.046135 vz -1.714642 
+set atom 627 diameter 3.403795 density ${rhos} vx 2.831019 vy 2.235959 vz -2.318136 
+set atom 628 diameter 3.971703 density ${rhos} vx 1.856871 vy -1.170042 vz 0.502391 
+set atom 629 diameter 3.698050 density ${rhos} vx -0.337807 vy -2.019829 vz -3.194831 
+set atom 630 diameter 3.236632 density ${rhos} vx -2.396819 vy 1.917116 vz 1.784919 
+set atom 631 diameter 3.348634 density ${rhos} vx 0.692682 vy 3.804569 vz -4.443115 
+set atom 632 diameter 3.369897 density ${rhos} vx -2.512293 vy 4.245483 vz -4.659428 
+set atom 633 diameter 3.079763 density ${rhos} vx -1.806984 vy -4.187472 vz -2.134815 
+set atom 634 diameter 3.089800 density ${rhos} vx 4.108022 vy -0.173270 vz -4.226100 
+set atom 635 diameter 2.669042 density ${rhos} vx 3.852200 vy -3.717349 vz 4.005723 
+set atom 636 diameter 2.743099 density ${rhos} vx 2.945894 vy -2.470888 vz 3.466059 
+set atom 637 diameter 2.190564 density ${rhos} vx 4.258098 vy 3.839615 vz -1.043015 
+set atom 638 diameter 3.415434 density ${rhos} vx -3.211600 vy -3.037231 vz -3.307847 
+set atom 639 diameter 4.043134 density ${rhos} vx 0.175411 vy -3.786463 vz -0.695477 
+set atom 640 diameter 3.625940 density ${rhos} vx 1.270053 vy 0.436950 vz -0.837819 
+set atom 641 diameter 3.398702 density ${rhos} vx 4.131823 vy -1.853793 vz 2.287635 
+set atom 642 diameter 3.253937 density ${rhos} vx 1.639683 vy -1.179591 vz -0.935263 
+set atom 643 diameter 2.786469 density ${rhos} vx -1.108072 vy 2.915393 vz 4.518075 
+set atom 644 diameter 5.356377 density ${rhos} vx 2.400076 vy 3.391795 vz 4.119850 
+set atom 645 diameter 4.123027 density ${rhos} vx 3.176349 vy 1.802364 vz 4.514143 
+set atom 646 diameter 3.364092 density ${rhos} vx 1.003448 vy -0.830780 vz -1.539988 
+set atom 647 diameter 3.861083 density ${rhos} vx -4.150029 vy 1.428898 vz -2.097558 
+set atom 648 diameter 3.559224 density ${rhos} vx 4.223580 vy -2.859185 vz 3.867008 
+set atom 649 diameter 4.346187 density ${rhos} vx -4.464022 vy 1.172708 vz -2.899692 
+set atom 650 diameter 5.297029 density ${rhos} vx 0.270250 vy 1.751911 vz -3.691235 
+set atom 651 diameter 4.313301 density ${rhos} vx -3.811467 vy 1.010235 vz 0.205159 
+set atom 652 diameter 3.888062 density ${rhos} vx -1.198570 vy -1.536905 vz 4.054627 
+set atom 653 diameter 3.904052 density ${rhos} vx 3.128325 vy -1.355986 vz -0.974698 
+set atom 654 diameter 3.130766 density ${rhos} vx -2.559041 vy -3.285189 vz -2.842387 
+set atom 655 diameter 2.986054 density ${rhos} vx 3.844227 vy 2.953616 vz -4.212605 
+set atom 656 diameter 3.158035 density ${rhos} vx 2.126468 vy -0.073331 vz 4.330599 
+set atom 657 diameter 3.668766 density ${rhos} vx -1.218516 vy -1.453771 vz 1.028716 
+set atom 658 diameter 2.766725 density ${rhos} vx -2.510804 vy 2.750612 vz -1.225078 
+set atom 659 diameter 3.134154 density ${rhos} vx -2.471463 vy -2.631952 vz 1.649314 
+set atom 660 diameter 3.100655 density ${rhos} vx 2.672436 vy 3.448334 vz 2.921903 
+set atom 661 diameter 3.997369 density ${rhos} vx -4.501381 vy 3.165270 vz -1.665079 
+set atom 662 diameter 4.291318 density ${rhos} vx 1.852886 vy 3.462284 vz 1.926589 
+set atom 663 diameter 3.822415 density ${rhos} vx 1.202781 vy -1.298131 vz -2.961843 
+set atom 664 diameter 2.586893 density ${rhos} vx 2.466846 vy -1.167705 vz 4.587136 
+set atom 665 diameter 4.473145 density ${rhos} vx 4.772556 vy 3.613347 vz 2.118325 
+set atom 666 diameter 3.292791 density ${rhos} vx -1.160865 vy -0.360908 vz -3.330934 
+set atom 667 diameter 3.136906 density ${rhos} vx -2.397944 vy 0.705482 vz -0.572228 
+set atom 668 diameter 3.844787 density ${rhos} vx 3.774695 vy 1.953068 vz 1.329936 
+set atom 669 diameter 2.430084 density ${rhos} vx 3.060960 vy 4.609173 vz 4.299672 
+set atom 670 diameter 3.834568 density ${rhos} vx -0.388789 vy 0.463130 vz 0.293310 
+set atom 671 diameter 2.204867 density ${rhos} vx -4.090383 vy 1.365766 vz 1.264744 
+set atom 672 diameter 3.380749 density ${rhos} vx 0.642688 vy 0.708925 vz 1.808189 
+set atom 673 diameter 2.421519 density ${rhos} vx -3.126171 vy 4.271121 vz 4.231975 
+set atom 674 diameter 3.133480 density ${rhos} vx 0.316896 vy 3.637656 vz -3.471659 
+set atom 675 diameter 3.042845 density ${rhos} vx -1.449667 vy -3.301607 vz -0.942792 
+set atom 676 diameter 3.491624 density ${rhos} vx -1.852165 vy -3.213010 vz -1.875240 
+set atom 677 diameter 2.844255 density ${rhos} vx 2.267415 vy -2.564956 vz 1.938990 
+set atom 678 diameter 4.527527 density ${rhos} vx 0.157729 vy 2.517794 vz 3.906879 
+set atom 679 diameter 1.992057 density ${rhos} vx 2.906449 vy -3.008656 vz -0.093290 
+set atom 680 diameter 2.441447 density ${rhos} vx -2.955074 vy 4.829405 vz 3.058235 
+set atom 681 diameter 3.086853 density ${rhos} vx 1.781061 vy 2.096387 vz -1.735611 
+set atom 682 diameter 2.902309 density ${rhos} vx -4.475145 vy -3.245639 vz 0.498791 
+set atom 683 diameter 3.314270 density ${rhos} vx 3.011724 vy 3.582974 vz -1.112157 
+set atom 684 diameter 2.244416 density ${rhos} vx 1.785686 vy 4.094115 vz 3.968290 
+set atom 685 diameter 4.084965 density ${rhos} vx 4.460089 vy 4.616631 vz 1.761201 
+set atom 686 diameter 3.581572 density ${rhos} vx -4.084419 vy 0.705997 vz 3.283969 
+set atom 687 diameter 2.687979 density ${rhos} vx 4.084384 vy 0.628792 vz -3.899112 
+set atom 688 diameter 2.819662 density ${rhos} vx 0.099530 vy -3.233388 vz -2.207727 
+set atom 689 diameter 3.304463 density ${rhos} vx 1.149036 vy 0.136791 vz 2.676362 
+set atom 690 diameter 4.192378 density ${rhos} vx -1.839288 vy 0.484719 vz -2.839434 
+set atom 691 diameter 5.031934 density ${rhos} vx -4.225125 vy -3.347226 vz -4.659379 
+set atom 692 diameter 3.801526 density ${rhos} vx 3.506141 vy -0.061070 vz -0.634481 
+set atom 693 diameter 2.582311 density ${rhos} vx -3.554731 vy 0.351173 vz 4.368637 
+set atom 694 diameter 4.138742 density ${rhos} vx -1.295142 vy -3.011928 vz -2.379110 
+set atom 695 diameter 2.948416 density ${rhos} vx 1.223914 vy 1.231689 vz 0.697455 
+set atom 696 diameter 2.901167 density ${rhos} vx 4.975519 vy -4.736846 vz -1.404470 
+set atom 697 diameter 2.952777 density ${rhos} vx 0.173441 vy -1.812090 vz -4.731614 
+set atom 698 diameter 5.665677 density ${rhos} vx 4.905112 vy 0.329995 vz 0.004192 
+set atom 699 diameter 2.974527 density ${rhos} vx -2.734655 vy -1.732263 vz 3.270149 
+set atom 700 diameter 4.157828 density ${rhos} vx -1.019948 vy 1.021904 vz -2.410176 
+set atom 701 diameter 3.627504 density ${rhos} vx 1.965687 vy -1.380673 vz -4.541150 
+set atom 702 diameter 3.448853 density ${rhos} vx -4.353592 vy -3.650794 vz -2.535284 
+set atom 703 diameter 2.694163 density ${rhos} vx 2.476616 vy 4.138135 vz 1.607321 
+set atom 704 diameter 3.085909 density ${rhos} vx -0.795996 vy 1.405588 vz -1.705903 
+set atom 705 diameter 3.954459 density ${rhos} vx 3.113174 vy 1.587741 vz 1.594962 
+set atom 706 diameter 3.030303 density ${rhos} vx -1.203947 vy 1.753303 vz -4.869959 
+set atom 707 diameter 3.593719 density ${rhos} vx -1.809322 vy 2.445577 vz 2.180679 
+set atom 708 diameter 2.426615 density ${rhos} vx 4.860511 vy 3.421776 vz -1.088812 
+set atom 709 diameter 2.183036 density ${rhos} vx 2.181809 vy 0.166572 vz -4.664947 
+set atom 710 diameter 2.768405 density ${rhos} vx -0.868166 vy -3.481313 vz -0.939846 
+set atom 711 diameter 3.143501 density ${rhos} vx -4.013698 vy -1.193357 vz 2.163076 
+set atom 712 diameter 4.017178 density ${rhos} vx 2.345591 vy 3.210194 vz 4.213364 
+set atom 713 diameter 3.265751 density ${rhos} vx 1.373063 vy -3.286356 vz 4.840157 
+set atom 714 diameter 2.897586 density ${rhos} vx -4.261581 vy -1.700247 vz 4.834209 
+set atom 715 diameter 4.030694 density ${rhos} vx -3.794918 vy 4.664720 vz 3.963061 
+set atom 716 diameter 3.216722 density ${rhos} vx 4.815962 vy 3.062926 vz 3.657032 
+set atom 717 diameter 3.242757 density ${rhos} vx -0.032006 vy -2.778121 vz 3.009610 
+set atom 718 diameter 3.186406 density ${rhos} vx -4.775863 vy 4.997731 vz 0.549789 
+set atom 719 diameter 3.050679 density ${rhos} vx -4.461685 vy -4.362613 vz -0.811279 
+set atom 720 diameter 3.181735 density ${rhos} vx -3.591262 vy -0.745169 vz -3.728775 
+set atom 721 diameter 2.759557 density ${rhos} vx 3.934743 vy -0.956618 vz 1.546207 
+set atom 722 diameter 3.646132 density ${rhos} vx -0.341799 vy -0.997071 vz 3.639649 
+set atom 723 diameter 2.814064 density ${rhos} vx 0.608567 vy -3.880774 vz -2.254016 
+set atom 724 diameter 3.554971 density ${rhos} vx -0.055437 vy -0.756892 vz 3.401639 
+set atom 725 diameter 2.457574 density ${rhos} vx -4.322145 vy 1.135459 vz -4.292448 
+set atom 726 diameter 3.383456 density ${rhos} vx 3.976465 vy 4.880613 vz -1.212079 
+set atom 727 diameter 3.578574 density ${rhos} vx -2.114347 vy -2.800992 vz -2.318306 
+set atom 728 diameter 2.564628 density ${rhos} vx -2.309532 vy -1.459189 vz -3.470788 
+set atom 729 diameter 2.994985 density ${rhos} vx 0.941942 vy -2.337581 vz 1.309996 
+set atom 730 diameter 3.209462 density ${rhos} vx -0.241210 vy -2.085020 vz -1.836252 
+set atom 731 diameter 3.544374 density ${rhos} vx -1.316890 vy -3.116105 vz 4.591119 
+set atom 732 diameter 3.571716 density ${rhos} vx 1.556111 vy -4.771404 vz -0.013260 
+set atom 733 diameter 2.635302 density ${rhos} vx 4.382004 vy -0.505958 vz 2.386085 
+set atom 734 diameter 4.174467 density ${rhos} vx 1.204252 vy -2.563598 vz -4.872443 
+set atom 735 diameter 3.404420 density ${rhos} vx -2.171599 vy 3.687265 vz 1.053532 
+set atom 736 diameter 3.130188 density ${rhos} vx -2.948187 vy 0.286108 vz 0.764513 
+set atom 737 diameter 3.849313 density ${rhos} vx -0.608659 vy 4.141352 vz 3.073788 
+set atom 738 diameter 2.783301 density ${rhos} vx -4.727498 vy 4.739302 vz 1.549681 
+set atom 739 diameter 4.670587 density ${rhos} vx 3.761843 vy 0.854260 vz 3.782284 
+set atom 740 diameter 2.858077 density ${rhos} vx 1.100922 vy -3.810246 vz 4.023729 
+set atom 741 diameter 3.289251 density ${rhos} vx -2.964076 vy 4.265326 vz -3.477671 
+set atom 742 diameter 2.659799 density ${rhos} vx 0.199168 vy 0.935608 vz -3.074199 
+set atom 743 diameter 2.827187 density ${rhos} vx -4.461757 vy 3.836153 vz 2.909756 
+set atom 744 diameter 3.631696 density ${rhos} vx 3.621874 vy -0.755241 vz -4.392949 
+set atom 745 diameter 2.678595 density ${rhos} vx -0.570653 vy 1.072574 vz -1.101728 
+set atom 746 diameter 4.152310 density ${rhos} vx 0.480092 vy -4.292364 vz -2.000341 

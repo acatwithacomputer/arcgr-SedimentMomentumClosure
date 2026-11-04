@@ -1,0 +1,26 @@
+# Particle and Domain Properties for DEM
+ 
+#--------------------------Domain Properties--------------------------#
+ 
+variable Lx equal 33.493180
+variable Ly equal 33.493180
+variable Lz equal 33.493180
+ 
+#-------------------------Particle Properties-------------------------#
+ 
+#variable nrPart   equal 42    # Number of particles
+#variable R        equal .5 
+variable rhos     equal 1.0   # density of particles 
+variable g        equal 0.0   # gravity 
+#variable dx       equal .03   # for lubrication correction cutoff 
+#variable mu       equal .01 # fluid viscosity for lubrication
+#variable seed     equal 100003 # initial pack seed
+ 
+#-------------------------Simulation Settings-------------------------#
+ 
+variable xProc     equal   1      # processor sections in x direction
+variable yProc     equal   1      # processor sections in y direction
+variable zProc     equal   1      # processor sections in z direction
+ 
+variable timeStep  equal 	 0.00003 		#[s]		simulation timestep DEM
+variable numTS     equal 	 1000000 		#[s]		simulation timestep DEM

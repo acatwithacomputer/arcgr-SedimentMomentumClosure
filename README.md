@@ -38,15 +38,19 @@ The script `MethodsValidation/IBAMR/PrepBaseCases.sh` will generate the cases fo
 
 # Static sphere simulations
 
-## Meshes
+## Sphere Packings and Meshes
 
 The generation of the two sphere meshes may be performed by running the python script `Preprocessing/genDilute.py`. The monodisperse meshes were originally generated with SALOME, which is reflected in `Preprocessing/DiluteMeshing/MeshingFunctions.py`, however they are all set up to be generated with `pygmsh`.
+
+For ease, we recommend running the `Preprocessing/genMid.py` script that is set up to reproduce the dense and mid-range cases based on the sphere lists that were generated with the following process. The dense packings are generated using the `Preprocessing/genDense.py` case in conjunction with the [SpherePacking](https://github.com/tmweigand/spherePacking) code. A MATLAB script that was lost during file recovery after a work station issue was used to randomly remove spheres by applying the `randi` function result to the indicies of the list of radii. A selection of these were fed back into the SpherePacking code to generate the "e" cases. 
 
 ## Dilute Cases
 
 ## Dense cases
 
 ## Midrange cases
+
+# Data Analysis
 
 # To Do list
 - [x] Methods validation: openfoam cases
@@ -55,9 +59,9 @@ The generation of the two sphere meshes may be performed by running the python s
 - [x] Methods validation: analysis matlab
 - [ ] Methods validation: analysis octave
 - [x] Preprocess: Two sphere meshes
-- [ ] Preprocess: Mid/dense meshes
+- [x] Preprocess: Mid/dense meshes
 - [ ] Preprocess: Cross validation walk
-- [ ] Preprocess: Cross validation meshes
+- [x] Preprocess: Cross validation meshes
 - [ ] Two sphere: Base case
 - [ ] Two sphere: Scripts
 - [ ] Mid/Dense: Base case

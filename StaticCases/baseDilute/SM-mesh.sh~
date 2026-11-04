@@ -1,0 +1,69 @@
+#!/bin/bash
+#SBATCH --job-name=m-x10
+#SBATCH -p batch
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=192
+#SBATCH -t 08:00:00
+
+logdir=logs
+mkdir ${logdir}
+useModule="false"
+
+echo "Loading OpenMPI 5.0.6"
+module load openmpi_5.0.6/gcc_13.3.0
+export UCX_TLS=^ud
+       
+if $useModule
+   then
+       echo "Loading OpenFOAM 12 module and sourcing bashrc"
+       module load openfoam/12
+       source /nas/sycamore/apps/openfoam/12/OpenFOAM-12/etc/bashrc
+   else
+       echo "Sourcing OpenFOAM 10"               
+       source /nas/longleaf/home/breizh/OpenFOAM/OpenFOAM-10/etc/bashrc
+fi
+
+echo " "
+
+#reconstructPar -latestTime
+
+echo "Running blockMesh"
+which blockMesh
+blockMesh > ${logdir}/log.blockMesh
+echo " "
+    
+echo "Prepare to decompose for the run."
+nPx=8
+nPy=6
+nPz=4
+nProcs=192 #1056 #528
+sed -i "18s/.*/numberOfSubdomains  ${nProcs};/" ./system/decomposeParDict
+sed -i "24s/.*/    n           (${nPx} ${nPy} ${nPz});/" ./system/decomposeParDict
+
+echo "Running decomposePar: " ${nProcs}
+which decomposePar 
+decomposePar > ${logdir}/log.decomposeParRun
+echo " "
+
+echo "Running snappyHexMesh"
+which snappyHexMesh
+srun snappyHexMesh -parallel > ${logdir}/log.snappyHexMesh
+echo " "
+
+echo "Running renumberMesh"
+which renumberMesh
+srun renumberMesh -parallel > ${logdir}/log.renumberMesh
+echo " "
+
+echo "Running topoSet"
+which topoSet
+srun topoSet -parallel > ${logdir}/log.topoSet
+echo " "
+
+echo "Running checkMesh"
+which checkMesh
+srun checkMesh -parallel > ${logdir}/log.checkMesh
+echo " "
+
+echo " "
+echo "Done!"

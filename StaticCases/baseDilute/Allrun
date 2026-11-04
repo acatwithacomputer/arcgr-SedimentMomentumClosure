@@ -1,0 +1,30 @@
+#!/bin/sh
+#cd ${0%/*} || exit 1    # Run from this directory
+
+# Source tutorial run functions
+. $WM_PROJECT_DIR/bin/tools/RunFunctions
+
+# Get application directory
+application=$(getApplication)
+
+makeMesh="true"
+
+if $makeMesh
+then
+    blockMesh >> log.blockMesh 2>&1
+    snappyHexMesh -overwrite >> log.snappyHexMesh 2>&1
+else
+    echo "Not making a new mesh"
+fi
+
+
+# Preprocessing
+runApplication topoSet
+decomposePar
+
+# Run thing
+runParallel $application
+
+#rm -r processor*
+
+#------------------------------------------------------------------------------

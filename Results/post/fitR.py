@@ -351,7 +351,7 @@ def computeL2Error(observed,predicted):
     else:   # Vector
         L2diff = np.sqrt(np.sum(np.multiply(diffoe,diffoe)))
         L2exp = np.sqrt(np.sum(np.multiply(observed,observed)))
-        length = np.product(np.shape(diffoe))
+        length = np.prod(np.shape(diffoe))
         L2 = L2diff/length
         L2rel = L2diff/L2exp*100
     return L2,L2rel
@@ -440,12 +440,12 @@ def loadAllData(dataLocation):
             measures_ = np.reshape(measures_,(1,3))
             labels__ = np.array([[code,labels_]])
             #candidates_ = prepCandidates(dataLocation,code)
-            lc = len(candidates_)
+            # lc = len(candidates_)
             #if lc < 6:
             #    candidates__ = np.append(candidates_,[0],axis=0)
             #    candidates_ = candidates__
             #    lc = lc+1
-            candidates_ = np.reshape(candidates_,(1,lc))
+            # candidates_ = np.reshape(candidates_,(1,lc))
             if i<1 and j<1:
                 #print("size",np.size(R_))
                 R = R_

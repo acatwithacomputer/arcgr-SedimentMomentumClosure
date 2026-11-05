@@ -54,11 +54,20 @@ For ease, we recommend running the `Preprocessing/genMid.py` script that is set 
 
 After having run `genDilute.py` in the `Preprocessing` directory, use the bash script `StaticCases/CopyDiluteBase.sh` to copy the cases. The scripts `SM-mesh.sh` and `SM-run.sh` were used to run the cases. For transient cases, where necessary, the files in the system directory ending with `*-pf` was used to overwrite the corresponding file. 
 
-## Dense cases
-
-## Midrange cases
+## Midrange and Dense cases
 
 # Data Analysis
+
+All data resulting from simulations may be found in the `Results/results` directory. 
+
+## Running PySR
+Before running PySR, first make sure that it is installed. That information may be found [here](https://github.com/astroautomata/PySR). It'll take a minute to set up the first time it's imported. The PySR running script is `Results/runPysr.py`. Before running, there are a couple things to check.
+
+1. Line 53, `laptop=[bool]` toggles the settings used during local testing versus running on a part of a node on a cluster. 
+
+2. Line 64, `linear=[bool]` selects whether to run PySR for R1 (the linear coefficient) or R2 (the quadratic coefficient). 
+
+Since the L2 norm was used, that may be left as is. 
 
 # To Do list
 - [x] Methods validation: openfoam cases

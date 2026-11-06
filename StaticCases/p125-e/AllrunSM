@@ -1,0 +1,27 @@
+#!/bin/sh
+#cd ${0%/*} || exit 1    # Run from this directory
+
+# Source tutorial run functions
+. $WM_PROJECT_DIR/bin/tools/RunFunctions
+
+# Body forces to run
+g_=(    1000     2500     5000
+       10000    25000    50000
+      100000   250000   500000
+     1000000  2500000  5000000
+    10000000 25000000 50000000)
+
+let ng=4*3-1
+
+for i in $(seq 0 ${ng})
+do
+    # Preprocess
+    echo ${g_[i]}
+    sed -i "18s/.*/value           (-${g_[i]} 0 0);/" ./constant/g
+    # Run the thing
+    srun simpleFoamMod -parallel > ${1}/log.simpleFoamMod${i}
+    # Save results
+    mv postProcessing post${i}
+done
+
+#------------------------------------------------------------------------------

@@ -56,6 +56,8 @@ After having run `genDilute.py` in the `Preprocessing` directory, use the bash s
 
 ## Midrange and Dense cases
 
+All cases are contained in `StaticCases` without meshes. Most cases were run on Expanse. 
+
 # Data Analysis
 
 All data resulting from simulations may be found in the `Results/results` directory. 
@@ -85,8 +87,8 @@ In order to do the evaluation and get the comparison figures, run the script in 
 - [x] Preprocess: Cross validation meshes
 - [x] Two sphere: Base case
 - [x] Two sphere: Scripts
-- [ ] Mid/Dense: Base case
-- [ ] Mid/Dense: scripts
+- [x] Mid/Dense: Base case
+- [x] Mid/Dense: scripts
 - [x] Analysis: Get data
 - [x] Analysis: PySR run script
 - [x] Analysis: PySR eval script

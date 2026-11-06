@@ -1,0 +1,24 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v2112                                 |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+
+// Domain bounds
+Lx      36.913605;
+Ly      $Lx;
+Lz      $Lx;
+
+// Discretization constants
+cpu     10.0;
+rno     37.0;
+Nx      370; //#calc "$rno * $cpu";
+Ny      370; //#calc "$rno * $cpu";
+Nz      370; //#calc "$rno * $cpu";
+
+baseLvl 1;
+surfLvl 2; //#calc "$baseLvl + 1";
+
+// ************************************************************************* //

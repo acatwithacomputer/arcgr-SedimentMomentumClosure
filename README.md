@@ -69,6 +69,10 @@ Before running PySR, first make sure that it is installed. That information may 
 
 Since the L2 norm was used, that may be left as is. 
 
+## Model evaluation
+
+In order to do the evaluation and get the comparison figures, run the script in `Results/evalPysr.py`.
+
 # To Do list
 - [x] Methods validation: openfoam cases
 - [x] Methods validation: ibamr cases
@@ -84,5 +88,5 @@ Since the L2 norm was used, that may be left as is.
 - [ ] Mid/Dense: Base case
 - [ ] Mid/Dense: scripts
 - [x] Analysis: Get data
-- [ ] Analysis: PySR run script
-- [ ] Analysis: PySR eval script
+- [x] Analysis: PySR run script
+- [x] Analysis: PySR eval script
